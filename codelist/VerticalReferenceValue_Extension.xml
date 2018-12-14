@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="VerticalReferenceValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Werte zur Angabe der Bezugsebene der vertikalen Ausdehnung. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/VerticalReferenceValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">VerticalReferenceValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="NHN">
+      <description>Normalhöhennull (NHN).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/VerticalReferenceValue_Extension.xml">NHN</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

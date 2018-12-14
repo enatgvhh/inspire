@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="GeothermalPotentialValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Art der geothermischen Energie. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/GeothermalPotentialValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">GeothermalPotentialValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="heatExtractionCapacity">
+      <description>Wärmeentzugsleistung (W/m).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/GeothermalPotentialValue_Extension.xml">heatExtractionCapacity</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

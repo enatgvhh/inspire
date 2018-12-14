@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="AgeByRange" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Altersgruppen der Bevoelkerungsstatistik Hamburg. Erweiterung der open Codeliste http://inspire.ec.europa.eu/codelist/ClassificationItemTypeValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">AgeByRange</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="age_0_3">
+      <description>Altersgruppe 0 bis weniger als 3 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_0_3</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_3_6">
+      <description>Altersgruppe 3 bis weniger als 6 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_3_6</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_6_12">
+      <description>Altersgruppe 6 bis weniger als 12 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_6_12</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_12_18">
+      <description>Altersgruppe 12 bis weniger als 18 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_12_18</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_18_20">
+      <description>Altersgruppe 18 bis weniger als 20 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_18_20</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_20_30">
+      <description>Altersgruppe 20 bis weniger als 30 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_20_30</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_30_45">
+      <description>Altersgruppe 30 bis weniger als 45 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_30_45</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_45_60">
+      <description>Altersgruppe 45 bis weniger als 60 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_45_60</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_60_65">
+      <description>Altersgruppe 60 bis weniger als 65 Jahre.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_60_65</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_65_plus">
+      <description>Altersgruppe 65 Jahre und älter.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_65_plus</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="age_all">
+      <description>Alle Altersgruppen zusammen.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/AgeByRange.xml">age_all</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="LandUseClassificationValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Liste der für das INSPIRE-Thema Bodennutzung zu verwendenden und auf nationaler oder lokaler Ebene abgestimmten Bodennutzungskategorien. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/LandUseClassificationValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">LandUseClassificationValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="3_1_AbgrabungsFlaeche">
+      <description>AbgrabungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_1_AbgrabungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_5_AufschuettungsFlaeche">
+      <description>AufschuettungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_5_AufschuettungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_6_1_SchutzPflege">
+      <description>SchutzPflege</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_6_1_SchutzPflege</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_6_2_Entwicklung">
+      <description>Entwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_6_2_Entwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_6_3_Anlage">
+      <description>Anlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_6_3_Anlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_6_4_SchutzPflegeEntwicklung">
+      <description>SchutzPflegeEntwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_6_4_SchutzPflegeEntwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_6_5_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_6_5_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_6_AusgleichsFlaeche">
+      <description>AusgleichsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_6_AusgleichsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_1_1_Kleinsiedlungsgebiet">
+      <description>Kleinsiedlungsgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_1_1_Kleinsiedlungsgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_1_2_ReinesWohngebiet">
+      <description>ReinesWohngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_1_2_ReinesWohngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_1_3_AllgWohngebiet">
+      <description>AllgWohngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_1_3_AllgWohngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_1_4_BesonderesWohngebiet">
+      <description>BesonderesWohngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_1_4_BesonderesWohngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_2_1_Dorfgebiet">
+      <description>Dorfgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_2_1_Dorfgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_2_2_Mischgebiet">
+      <description>Mischgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_2_2_Mischgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_2_3_UrbanesGebiet">
+      <description>UrbanesGebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_2_3_UrbanesGebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_2_4_Kerngebiet">
+      <description>Kerngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_2_4_Kerngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_3_1_Gewerbegebiet">
+      <description>Gewerbegebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_3_1_Gewerbegebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_3_2_Industriegebiet">
+      <description>Industriegebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_3_2_Industriegebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_4_1_SondergebietErholung">
+      <description>SondergebietErholung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_4_1_SondergebietErholung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_4_3_Wochenendhausgebiet">
+      <description>Wochenendhausgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_4_3_Wochenendhausgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_4_4_Sondergebiet">
+      <description>Sondergebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_4_4_Sondergebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_5_1_SonstigesGebiet">
+      <description>SonstigesGebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_5_1_SonstigesGebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_10_BaugebietsTeilFlaeche">
+      <description>BaugebietsTeilFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_10_BaugebietsTeilFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_12_BesondererNutzungszweckFlaeche">
+      <description>BesondererNutzungszweckFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_12_BesondererNutzungszweckFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_13_BodenschaetzeFlaeche">
+      <description>BodenschaetzeFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_13_BodenschaetzeFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_18_FestsetzungNachLandesrecht">
+      <description>FestsetzungNachLandesrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_18_FestsetzungNachLandesrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_1_OeffentlicheVerwaltung">
+      <description>OeffentlicheVerwaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_1_OeffentlicheVerwaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_2_BildungForschung">
+      <description>BildungForschung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_2_BildungForschung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_3_Kirche">
+      <description>Kirche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_3_Kirche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_4_Sozial">
+      <description>Sozial</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_4_Sozial</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_5_Gesundheit">
+      <description>Gesundheit</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_5_Gesundheit</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_6_Kultur">
+      <description>Kultur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_6_Kultur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_7_Sport">
+      <description>Sport</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_7_Sport</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_8_SicherheitOrdnung">
+      <description>SicherheitOrdnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_8_SicherheitOrdnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_9_Infrastruktur">
+      <description>Infrastruktur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_9_Infrastruktur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_10_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_10_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_1_1_KommunaleEinrichtung">
+      <description>KommunaleEinrichtung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_1_1_KommunaleEinrichtung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_1_2_BetriebOeffentlZweckbestimmung">
+      <description>BetriebOeffentlZweckbestimmung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_1_2_BetriebOeffentlZweckbestimmung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_1_3_AnlageBundLand">
+      <description>AnlageBundLand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_1_3_AnlageBundLand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_1_4_SonstigeOeffentlicheVerwaltung">
+      <description>SonstigeOeffentlicheVerwaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_1_4_SonstigeOeffentlicheVerwaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_2_1_Schule">
+      <description>Schule</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_2_1_Schule</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_2_2_Hochschule">
+      <description>Hochschule</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_2_2_Hochschule</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_2_3_BerufsbildendeSchule">
+      <description>BerufsbildendeSchule</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_2_3_BerufsbildendeSchule</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_2_4_Forschungseinrichtung">
+      <description>Forschungseinrichtung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_2_4_Forschungseinrichtung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_2_5_SonstigesBildungForschung">
+      <description>SonstigesBildungForschung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_2_5_SonstigesBildungForschung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_3_1_Sakralgebaeude">
+      <description>Sakralgebaeude</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_3_1_Sakralgebaeude</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_3_2_KirchlicheVerwaltung">
+      <description>KirchlicheVerwaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_3_2_KirchlicheVerwaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_3_3_Kirchengemeinde">
+      <description>Kirchengemeinde</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_3_3_Kirchengemeinde</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_3_4_SonstigesKirche">
+      <description>SonstigesKirche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_3_4_SonstigesKirche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_4_1_EinrichtungKinder">
+      <description>EinrichtungKinder</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_4_1_EinrichtungKinder</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_4_2_EinrichtungJugendliche">
+      <description>EinrichtungJugendliche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_4_2_EinrichtungJugendliche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_4_3_EinrichtungFamilienErwachsene">
+      <description>EinrichtungFamilienErwachsene</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_4_3_EinrichtungFamilienErwachsene</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_4_4_EinrichtungSenioren">
+      <description>EinrichtungSenioren</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_4_4_EinrichtungSenioren</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_4_5_SonstigeSozialeEinrichtung">
+      <description>SonstigeSozialeEinrichtung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_4_5_SonstigeSozialeEinrichtung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_5_1_Krankenhaus">
+      <description>Krankenhaus</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_5_1_Krankenhaus</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_5_2_SonstigesGesundheit">
+      <description>SonstigesGesundheit</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_5_2_SonstigesGesundheit</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_6_1_MusikTheater">
+      <description>MusikTheater</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_6_1_MusikTheater</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_6_2_Bildung">
+      <description>Bildung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_6_2_Bildung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_6_3_SonstigeKultur">
+      <description>SonstigeKultur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_6_3_SonstigeKultur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_7_1_Bad">
+      <description>Bad</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_7_1_Bad</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_7_2_SportplatzSporthalle">
+      <description>SportplatzSporthalle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_7_2_SportplatzSporthalle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_7_3_SonstigerSport">
+      <description>SonstigerSport</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_7_3_SonstigerSport</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_8_1_Feuerwehr">
+      <description>Feuerwehr</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_8_1_Feuerwehr</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_8_2_Schutzbauwerk">
+      <description>Schutzbauwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_8_2_Schutzbauwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_8_3_Justiz">
+      <description>Justiz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_8_3_Justiz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_8_4_SonstigeSicherheitOrdnung">
+      <description>SonstigeSicherheitOrdnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_8_4_SonstigeSicherheitOrdnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_9_1_Post">
+      <description>Post</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_9_1_Post</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_9_2_SonstigeInfrastruktur">
+      <description>SonstigeInfrastruktur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_9_2_SonstigeInfrastruktur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_7_Gemeinbedarf">
+      <description>Gemeinbedarf</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_7_Gemeinbedarf</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_26_GenerischesObjekt">
+      <description>GenerischesObjekt</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_26_GenerischesObjekt</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_27_1_Hafen">
+      <description>Hafen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_27_1_Hafen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_27_2_Wasserflaeche">
+      <description>Wasserflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_27_2_Wasserflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_27_3_Fliessgewaesser">
+      <description>Fliessgewaesser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_27_3_Fliessgewaesser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_27_4_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_27_4_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_27_GewaesserFlaeche">
+      <description>GewaesserFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_27_GewaesserFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_1_Parkanlage">
+      <description>Parkanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_1_Parkanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_2_Dauerkleingarten">
+      <description>Dauerkleingarten</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_2_Dauerkleingarten</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_Sportplatz">
+      <description>Sportplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_Sportplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_4_Spielplatz">
+      <description>Spielplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_4_Spielplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_5_Zeltplatz">
+      <description>Zeltplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_5_Zeltplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_6_Badeplatz">
+      <description>Badeplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_6_Badeplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_7_FreizeitErholung">
+      <description>FreizeitErholung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_7_FreizeitErholung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_SpezGruenflaeche">
+      <description>SpezGruenflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_SpezGruenflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_9_Friedhof">
+      <description>Friedhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_9_Friedhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_10_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_10_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_1_1_ParkanlageHistorisch">
+      <description>ParkanlageHistorisch</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_1_1_ParkanlageHistorisch</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_1_2_ParkanlageNaturnah">
+      <description>ParkanlageNaturnah</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_1_2_ParkanlageNaturnah</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_1_3_ParkanlageWaldcharakter">
+      <description>ParkanlageWaldcharakter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_1_3_ParkanlageWaldcharakter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_1_4_NaturnaheUferParkanlage">
+      <description>NaturnaheUferParkanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_1_4_NaturnaheUferParkanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_2_1_ErholungsGaerten">
+      <description>ErholungsGaerten</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_2_1_ErholungsGaerten</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_1_Reitsportanlage">
+      <description>Reitsportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_1_Reitsportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_2_Hundesportanlage">
+      <description>Hundesportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_2_Hundesportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_3_Wassersportanlage">
+      <description>Wassersportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_3_Wassersportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_4_Schiessstand">
+      <description>Schiessstand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_4_Schiessstand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_5_Golfplatz">
+      <description>Golfplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_5_Golfplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_6_Skisport">
+      <description>Skisport</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_6_Skisport</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_7_Tennisanlage">
+      <description>Tennisanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_7_Tennisanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_3_8_SonstigerSportplatz">
+      <description>SonstigerSportplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_3_8_SonstigerSportplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_4_1_Bolzplatz">
+      <description>Bolzplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_4_1_Bolzplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_4_2_Abenteuerspielplatz">
+      <description>Abenteuerspielplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_4_2_Abenteuerspielplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_5_1_Campingplatz">
+      <description>Campingplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_5_1_Campingplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_7_1_Kleintierhaltung">
+      <description>Kleintierhaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_7_1_Kleintierhaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_7_2_Festplatz">
+      <description>Festplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_7_2_Festplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_1_StrassenbegleitGruen">
+      <description>StrassenbegleitGruen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_1_StrassenbegleitGruen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_2_BoeschungsFlaeche">
+      <description>BoeschungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_2_BoeschungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_3_FeldWaldWiese">
+      <description>FeldWaldWiese</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_3_FeldWaldWiese</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_4_Uferschutzstreifen">
+      <description>Uferschutzstreifen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_4_Uferschutzstreifen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_5_Abschirmgruen">
+      <description>Abschirmgruen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_5_Abschirmgruen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_6_UmweltbildungsparkSchaugatter">
+      <description>UmweltbildungsparkSchaugatter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_6_UmweltbildungsparkSchaugatter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_8_7_RuhenderVerkehr">
+      <description>RuhenderVerkehr</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_8_7_RuhenderVerkehr</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_10_1_Gaertnerei">
+      <description>Gaertnerei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_10_1_Gaertnerei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_28_Gruen">
+      <description>Gruen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_28_Gruen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_1_Naturgewalten">
+      <description>Naturgewalten</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_1_Naturgewalten</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_2_Abbauflaeche">
+      <description>Abbauflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_2_Abbauflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_3_AeussereEinwirkungen">
+      <description>AeussereEinwirkungen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_3_AeussereEinwirkungen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_4_SchadstoffBelastBoden">
+      <description>SchadstoffBelastBoden</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_4_SchadstoffBelastBoden</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_5_LaermBelastung">
+      <description>LaermBelastung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_5_LaermBelastung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_6_Bergbau">
+      <description>Bergbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_6_Bergbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_7_Bodenordnung">
+      <description>Bodenordnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_7_Bodenordnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_8_Vorhabensgebiet">
+      <description>Vorhabensgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_8_Vorhabensgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_9_AndereGesetzlVorschriften">
+      <description>AndereGesetzlVorschriften</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_9_AndereGesetzlVorschriften</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_31_KennzeichnungsFlaeche">
+      <description>KennzeichnungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_31_KennzeichnungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_32_KleintierhaltungFlaeche">
+      <description>KleintierhaltungFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_32_KleintierhaltungFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_1_LandwirtschaftAllgemein">
+      <description>LandwirtschaftAllgemein</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_1_LandwirtschaftAllgemein</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_2_Ackerbau">
+      <description>Ackerbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_2_Ackerbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_3_WiesenWeidewirtschaft">
+      <description>WiesenWeidewirtschaft</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_3_WiesenWeidewirtschaft</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_4_GartenbaulicheErzeugung">
+      <description>GartenbaulicheErzeugung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_4_GartenbaulicheErzeugung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_5_Obstbau">
+      <description>Obstbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_5_Obstbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_6_Weinbau">
+      <description>Weinbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_6_Weinbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_7_Imkerei">
+      <description>Imkerei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_7_Imkerei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_8_Binnenfischerei">
+      <description>Binnenfischerei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_8_Binnenfischerei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_9_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_9_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_33_Landwirtschaft">
+      <description>Landwirtschaft</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_33_Landwirtschaft</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_39_RekultivierungsFlaeche">
+      <description>RekultivierungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_39_RekultivierungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_40_1_SchutzPflege">
+      <description>SchutzPflege</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_40_1_SchutzPflege</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_40_2_Entwicklung">
+      <description>Entwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_40_2_Entwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_40_3_Anlage">
+      <description>Anlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_40_3_Anlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_40_4_SchutzPflegeEntwicklung">
+      <description>SchutzPflegeEntwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_40_4_SchutzPflegeEntwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_40_5_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_40_5_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_40_SchutzPflegeEntwicklungsFlaeche">
+      <description>SchutzPflegeEntwicklungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_40_SchutzPflegeEntwicklungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_41_1_SchutzPflege">
+      <description>SchutzPflege</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_41_1_SchutzPflege</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_41_2_Entwicklung">
+      <description>Entwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_41_2_Entwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_41_3_Anlage">
+      <description>Anlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_41_3_Anlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_41_4_SchutzPflegeEntwicklung">
+      <description>SchutzPflegeEntwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_41_4_SchutzPflegeEntwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_41_5_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_41_5_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_41_SchutzPflegeEntwicklungsMassnahme">
+      <description>SchutzPflegeEntwicklungsMassnahme</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_41_SchutzPflegeEntwicklungsMassnahme</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_43_1_Sportanlage">
+      <description>Sportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_43_1_Sportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_43_2_Spielanlage">
+      <description>Spielanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_43_2_Spielanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_43_3_SpielSportanlage">
+      <description>SpielSportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_43_3_SpielSportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_43_4_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_43_4_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_43_SpielSportanlagenFlaeche">
+      <description>SpielSportanlagenFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_43_SpielSportanlagenFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_44_1_Privat">
+      <description>Privat</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_44_1_Privat</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_44_2_Oeffentlich">
+      <description>Oeffentlich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_44_2_Oeffentlich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_44_StrassenVerkehrsFlaeche">
+      <description>StrassenVerkehrsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_44_StrassenVerkehrsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_Elektrizitaet">
+      <description>Elektrizitaet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_Elektrizitaet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_2_Gas">
+      <description>Gas</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_2_Gas</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_3_Erdoel">
+      <description>Erdoel</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_3_Erdoel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_4_Waermeversorgung">
+      <description>Waermeversorgung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_4_Waermeversorgung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_5_Wasser">
+      <description>Wasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_5_Wasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_Abwasser">
+      <description>Abwasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_Abwasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_7_Regenwasser">
+      <description>Regenwasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_7_Regenwasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_8_Abfallentsorgung">
+      <description>Abfallentsorgung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_8_Abfallentsorgung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_9_Ablagerung">
+      <description>Ablagerung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_9_Ablagerung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_10_Telekommunikation">
+      <description>Telekommunikation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_10_Telekommunikation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_11_ErneuerbareEnergien">
+      <description>ErneuerbareEnergien</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_11_ErneuerbareEnergien</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_12_KraftWaermeKopplung">
+      <description>KraftWaermeKopplung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_12_KraftWaermeKopplung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_13_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_13_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_1_Hochspannungsleitung">
+      <description>Hochspannungsleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_1_Hochspannungsleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_2_TrafostationUmspannwerk">
+      <description>TrafostationUmspannwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_2_TrafostationUmspannwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_3_Solarkraftwerk">
+      <description>Solarkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_3_Solarkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_4_Windkraftwerk">
+      <description>Windkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_4_Windkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_5_Geothermiekraftwerk">
+      <description>Geothermiekraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_5_Geothermiekraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_6_Elektrizitaetswerk">
+      <description>Elektrizitaetswerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_6_Elektrizitaetswerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_7_Wasserkraftwerk">
+      <description>Wasserkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_7_Wasserkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_8_BiomasseKraftwerk">
+      <description>BiomasseKraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_8_BiomasseKraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_9_Kabelleitung">
+      <description>Kabelleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_9_Kabelleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_10_Niederspannungsleitung">
+      <description>Niederspannungsleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_10_Niederspannungsleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_2_1_Ferngasleitung">
+      <description>Ferngasleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_2_1_Ferngasleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_2_2_Gaswerk">
+      <description>Gaswerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_2_2_Gaswerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_2_3_Gasbehaelter">
+      <description>Gasbehaelter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_2_3_Gasbehaelter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_2_4_Gasdruckregler">
+      <description>Gasdruckregler</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_2_4_Gasdruckregler</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_2_5_Gasstation">
+      <description>Gasstation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_2_5_Gasstation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_2_6_Gasleitung">
+      <description>Gasleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_2_6_Gasleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_3_1_Erdoelleitung">
+      <description>Erdoelleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_3_1_Erdoelleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_3_2_Bohrstelle">
+      <description>Bohrstelle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_3_2_Bohrstelle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_3_3_Erdoelpumpstation">
+      <description>Erdoelpumpstation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_3_3_Erdoelpumpstation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_3_4_Oeltank">
+      <description>Oeltank</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_3_4_Oeltank</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_4_1_Blockheizkraftwerk">
+      <description>Blockheizkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_4_1_Blockheizkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_4_2_Fernwaermeleitung">
+      <description>Fernwaermeleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_4_2_Fernwaermeleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_4_3_Fernheizwerk">
+      <description>Fernheizwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_4_3_Fernheizwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_5_1_Wasserwerk">
+      <description>Wasserwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_5_1_Wasserwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_5_2_Wasserleitung">
+      <description>Wasserleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_5_2_Wasserleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_5_3_Wasserspeicher">
+      <description>Wasserspeicher</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_5_3_Wasserspeicher</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_5_4_Brunnen">
+      <description>Brunnen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_5_4_Brunnen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_5_5_Pumpwerk">
+      <description>Pumpwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_5_5_Pumpwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_5_6_Quelle">
+      <description>Quelle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_5_6_Quelle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_1_Abwasserleitung">
+      <description>Abwasserleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_1_Abwasserleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_2_Abwasserrueckhaltebecken">
+      <description>Abwasserrueckhaltebecken</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_2_Abwasserrueckhaltebecken</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_3_Abwasserpumpwerk">
+      <description>Abwasserpumpwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_3_Abwasserpumpwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_4_Klaeranlage">
+      <description>Klaeranlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_4_Klaeranlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_5_AnlageKlaerschlamm">
+      <description>AnlageKlaerschlamm</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_5_AnlageKlaerschlamm</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_6_SonstigeAbwasserBehandlungsanlage">
+      <description>SonstigeAbwasserBehandlungsanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_6_SonstigeAbwasserBehandlungsanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_6_7_SalzSoleeinleitungen">
+      <description>SalzSoleeinleitungen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_6_7_SalzSoleeinleitungen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_7_1_RegenwasserRueckhaltebecken">
+      <description>RegenwasserRueckhaltebecken</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_7_1_RegenwasserRueckhaltebecken</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_7_2_Niederschlagswasserleitung">
+      <description>Niederschlagswasserleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_7_2_Niederschlagswasserleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_8_1_Muellumladestation">
+      <description>Muellumladestation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_8_1_Muellumladestation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_8_2_Muellbeseitigungsanlage">
+      <description>Muellbeseitigungsanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_8_2_Muellbeseitigungsanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_8_3_Muellsortieranlage">
+      <description>Muellsortieranlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_8_3_Muellsortieranlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_8_4_Recyclinghof">
+      <description>Recyclinghof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_8_4_Recyclinghof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_9_1_Erdaushubdeponie">
+      <description>Erdaushubdeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_9_1_Erdaushubdeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_9_2_Bauschuttdeponie">
+      <description>Bauschuttdeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_9_2_Bauschuttdeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_9_3_Hausmuelldeponie">
+      <description>Hausmuelldeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_9_3_Hausmuelldeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_9_4_Sondermuelldeponie">
+      <description>Sondermuelldeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_9_4_Sondermuelldeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_9_5_StillgelegteDeponie">
+      <description>StillgelegteDeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_9_5_StillgelegteDeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_9_6_RekultivierteDeponie">
+      <description>RekultivierteDeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_9_6_RekultivierteDeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_10_1_Fernmeldeanlage">
+      <description>Fernmeldeanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_10_1_Fernmeldeanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_10_2_Mobilfunkstrecke">
+      <description>Mobilfunkstrecke</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_10_2_Mobilfunkstrecke</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_10_3_Fernmeldekabel">
+      <description>Fernmeldekabel</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_10_3_Fernmeldekabel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_13_1_Produktenleitung">
+      <description>Produktenleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_13_1_Produktenleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_1_11_Leitungsmast">
+      <description>Leitungsmast</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_1_11_Leitungsmast</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_51_VerEntsorgung">
+      <description>VerEntsorgung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_51_VerEntsorgung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_1_Parkierungsflaeche">
+      <description>Parkierungsflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_1_Parkierungsflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_2_Fussgaengerbereich">
+      <description>Fussgaengerbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_2_Fussgaengerbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_3_VerkehrsberuhigterBereich">
+      <description>VerkehrsberuhigterBereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_3_VerkehrsberuhigterBereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_4_RadFussweg">
+      <description>RadFussweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_4_RadFussweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_5_Radweg">
+      <description>Radweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_5_Radweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_6_Fussweg">
+      <description>Fussweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_6_Fussweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_7_Wanderweg">
+      <description>Wanderweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_7_Wanderweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_8_Wirtschaftsweg">
+      <description>Wirtschaftsweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_8_Wirtschaftsweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_9_FahrradAbstellplatz">
+      <description>FahrradAbstellplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_9_FahrradAbstellplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_10_UeberfuehrenderVerkehrsweg">
+      <description>UeberfuehrenderVerkehrsweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_10_UeberfuehrenderVerkehrsweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_11_UnterfuehrenderVerkehrsweg">
+      <description>UnterfuehrenderVerkehrsweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_11_UnterfuehrenderVerkehrsweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_12_PRAnlage">
+      <description>PRAnlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_12_PRAnlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_13_Platz">
+      <description>Platz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_13_Platz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_14_Anschlussflaeche">
+      <description>Anschlussflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_14_Anschlussflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_15_LandwirtschaftlicherVerkehr">
+      <description>LandwirtschaftlicherVerkehr</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_15_LandwirtschaftlicherVerkehr</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_16_Verkehrsgruen">
+      <description>Verkehrsgruen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_16_Verkehrsgruen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_17_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_17_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_53_VerkehrsflaecheBesondererZweckbestimmung">
+      <description>VerkehrsflaecheBesondererZweckbestimmung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_53_VerkehrsflaecheBesondererZweckbestimmung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_54_1_Naturwald">
+      <description>Naturwald</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_54_1_Naturwald</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_54_2_Nutzwald">
+      <description>Nutzwald</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_54_2_Nutzwald</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_54_3_Erholungswald">
+      <description>Erholungswald</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_54_3_Erholungswald</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_54_4_Schutzwald">
+      <description>Schutzwald</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_54_4_Schutzwald</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_54_5_FlaecheForstwirtschaft">
+      <description>FlaecheForstwirtschaft</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_54_5_FlaecheForstwirtschaft</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_54_6_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_54_6_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_54_WaldFlaeche">
+      <description>WaldFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_54_WaldFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_55_1_HochwasserRueckhaltebecken">
+      <description>HochwasserRueckhaltebecken</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_55_1_HochwasserRueckhaltebecken</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_55_2_Ueberschwemmgebiet">
+      <description>Ueberschwemmgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_55_2_Ueberschwemmgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_55_3_Versickerungsflaeche">
+      <description>Versickerungsflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_55_3_Versickerungsflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_55_4_Entwaesserungsgraben">
+      <description>Entwaesserungsgraben</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_55_4_Entwaesserungsgraben</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_55_5_Deich">
+      <description>Deich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_55_5_Deich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_55_6_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_55_6_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="3_55_WasserwirtschaftsFlaeche">
+      <description>WasserwirtschaftsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/LandUseClassificationValue_Extension.xml">3_55_WasserwirtschaftsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

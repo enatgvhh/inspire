@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="RiverBasinDistrictValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Flussgebietseinheit. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/RiverBasinDistrictValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">RiverBasinDistrictValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="Elbe">
+      <description>Flussgebietseinheit Elbe (FGE Elbe).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/RiverBasinDistrictValue_Extension.xml">Elbe</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

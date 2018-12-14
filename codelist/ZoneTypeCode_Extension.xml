@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ZoneTypeCode_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Code des Gebietstyps. Erweiterung der open Codeliste http://inspire.ec.europa.eu/codelist/ZoneTypeCode.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">ZoneTypeCode_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="compensationSurface">
+      <description>Ausgleichsflächen gemäß Bundesnaturschutzgesetz (Kompensationsverzeichnis).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ZoneTypeCode_Extension.xml">compensationSurface</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="waterfrontArea">
+      <description>Hafengebietsgrenzen Hamburg.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ZoneTypeCode_Extension.xml">waterfrontArea</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="waterAndSoilAssociation">
+      <description>Wasser- und Bodenverbände Hamburg.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ZoneTypeCode_Extension.xml">waterAndSoilAssociation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="aircraftNoiseRestrictionZone">
+      <description>Fluglärmschutzzonen.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ZoneTypeCode_Extension.xml">aircraftNoiseRestrictionZone</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="buildingProtectionArea">
+      <description>Baubeschränkungen LuftVG (Bauschutzbereich).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ZoneTypeCode_Extension.xml">buildingProtectionArea</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.opengis.net/gml/3.2" gml:id="SourceTheme" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+	<description>Code der Quelldaten.</description>
+	<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">SourceTheme</identifier>
+	<dictionaryEntry>
+		<Definition gml:id="Abfallentsorgung">
+			<description>Abfallentsorgung - https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#abfallentsorgung</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Abfallentsorgung</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Abfallverbrennung">
+			<description>Abfallverbrennung - https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#abfallverbrennung</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Abfallverbrennung</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Abwasserentsorgungsgebiet">
+			<description>Abwasserentsorgungsgebiet - https://geodienste.hamburg.de/HH_WFS_Abwasserentsorgungsgebiet_Hamburg_Wasser#abwasserentsorgungsgebiet</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Abwasserentsorgungsgebiet</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="BauschutzbereichLuftVG">
+			<description>BauschutzbereichLuftVG - https://geodienste.hamburg.de/HH_WFS_Bauschutzbereich_12_LuftVG#baubeschraenkungen</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">BauschutzbereichLuftVG</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Bevoelkerung">
+			<description>Bevoelkerung - https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j17.xlsx</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Bevoelkerung</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_Adressen">
+			<description>DOG_Adressen - https://geodienste.hamburg.de/HH_WFS_DOG#Hauskoordinaten</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_Adressen</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_Bezirke">
+			<description>DOG_Bezirke - https://geodienste.hamburg.de/HH_WFS_DOG#Regierungsbezirke</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_Bezirke</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_Gemeinden">
+			<description>DOG_Gemeinden - https://geodienste.hamburg.de/HH_WFS_DOG#Gemeinden</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_Gemeinden</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_Kreise">
+			<description>DOG_Kreise - https://geodienste.hamburg.de/HH_WFS_DOG#Kreise</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_Kreise</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_Land">
+			<description>DOG_Land - https://geodienste.hamburg.de/HH_WFS_DOG#Bundeslaender</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_Land</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_Ortsteile">
+			<description>DOG_Ortsteile - https://geodienste.hamburg.de/HH_WFS_DOG#Ortsteile</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_Ortsteile</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_PLZ">
+			<description>DOG_PLZ - https://geodienste.hamburg.de/HH_WFS_DOG#Postleitzahlgebiete</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_PLZ</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOG_Strassen">
+			<description>DOG_Strassen - https://geodienste.hamburg.de/HH_WFS_DOG#Strassen</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOG_Strassen</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOP20_2013">
+			<description>DOP20_2013 - http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20/DOP20_HH_fruehjahrsbefliegung_2013.zip</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOP20_2013</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOP20_2014">
+			<description>DOP20_2014 - http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20/DOP20_HH_fruehjahrsbefliegung_2014.zip</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOP20_2014</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOP20_2015">
+			<description>DOP20_2015 - http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20/DOP20_HH_fruehjahrsbefliegung_2015.zip</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOP20_2015</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOP20_2016">
+			<description>DOP20_2016 - http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20/DOP20_HH_fruehjahrsbefliegung_2016.zip</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOP20_2016</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOP20_2017">
+			<description>DOP20_2017 - http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20/DOP20_HH_fruehjahrsbefliegung_2017.zip</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOP20_2017</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOP20_Belaubt_2013">
+			<description>DOP20_Belaubt_2013 - http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20_belaubt/DOP20_HH_sommerbefliegung_2013.zip</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOP20_Belaubt_2013</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DOP20_Belaubt_2016">
+			<description>DOP20_Belaubt_2016 - http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20_belaubt/DOP20_HH_sommerbefliegung_2016.zip</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DOP20_Belaubt_2016</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="DienststellenSBV">
+			<description>DienststellenSBV - https://geodienste.hamburg.de/DE_HH_INSPIRE_WFS_Dienststellenstandorte_SBV#dienststellen_sbv</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">DienststellenSBV</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Fluglaermschutzzone1Tag">
+			<description>Fluglaermschutzzone1Tag - https://geodienste.hamburg.de/HH_WFS_Fluglaermschutzzonen#Tag_Schutzzone_1</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Fluglaermschutzzone1Tag</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Fluglaermschutzzone2Tag">
+			<description>Fluglaermschutzzone2Tag - https://geodienste.hamburg.de/HH_WFS_Fluglaermschutzzonen#Tag_Schutzzone_2</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Fluglaermschutzzone2Tag</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="FluglaermschutzzoneNacht">
+			<description>FluglaermschutzzoneNacht - https://geodienste.hamburg.de/HH_WFS_Fluglaermschutzzonen#Nacht_Schutzzone</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">FluglaermschutzzoneNacht</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Hafengebietsgrenzen">
+			<description>Hafengebietsgrenzen - https://geodienste.hamburg.de/HH_WFS_Hafengebietsgrenzen#hafengebietsgrenzen</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Hafengebietsgrenzen</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="INSPIRE_VectorStatisticalUnit">
+			<description>INSPIRE_VectorStatisticalUnit - https://geodienste.hamburg.de/HH_WFS_INSPIRE_SU#VectorStatisticalUnit</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">INSPIRE_VectorStatisticalUnit</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="KitaEinrichtungen">
+			<description>KitaEinrichtungen - https://geodienste.hamburg.de/HH_WFS_KitaEinrichtung#KitaEinrichtungen</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">KitaEinrichtungen</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Kompensationsverzeichnis">
+			<description>Kompensationsverzeichnis - https://geodienste.hamburg.de/HH_WFS_Ausgleichsflaechen#ausgleichsflaechen</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Kompensationsverzeichnis</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Krankenhaeuser">
+			<description>Krankenhaeuser - https://geodienste.hamburg.de/HH_WFS_Krankenhaeuser#krankenhaeuser_hh</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Krankenhaeuser</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="LAU_Stadt">
+			<description>LAU_Stadt - https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#landesgrenze</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">LAU_Stadt</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="LAU_Stadtbezirke">
+			<description>LAU_Stadtbezirke - https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#bezirke</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">LAU_Stadtbezirke</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="LAU_Stadtteile">
+			<description>LAU_Stadtteile - https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#stadtteile</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">LAU_Stadtteile</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="LAU_StatistischeGebiete">
+			<description>LAU_StatistischeGebiete - https://geodienste.hamburg.de/HH_WFS_Statistische_Gebiete#statistische_gebiete</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">LAU_StatistischeGebiete</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Notunterkuenfte">
+			<description>Notunterkuenfte - https://geodienste.hamburg.de/HH_WFS_Notunterkuenfte#notunterkuenfte</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Notunterkuenfte</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Recyclinghof">
+			<description>Recyclinghof - https://geodienste.hamburg.de/HH_WFS_abfall_recycling#abfall_recycling_6_recyhof</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Recyclinghof</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="SWIS-Sensoren">
+			<description>SWIS-Sensoren - https://geodienste.hamburg.de/DE_HH_INSPIRE_WFS_SWIS_Sensoren#swis_sensoren</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">SWIS-Sensoren</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Schulen">
+			<description>Schulen - https://geodienste.hamburg.de/HH_WFS_Schulen#staatliche_schulen</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Schulen</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Temperatur100mGroundLevel">
+			<description>Temperatur100mGroundLevel - https://geodienste.hamburg.de/HH_WFS_Geothermie#temperatur_in_100m_unter_gelaende</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Temperatur100mGroundLevel</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Temperatur100mNHN">
+			<description>Temperatur100mNHN - https://geodienste.hamburg.de/HH_WFS_Geothermie#temperatur_in_minus_100mnhn</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Temperatur100mNHN</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Waermeentzugsleistung100m">
+			<description>Waermeentzugsleistung100m - https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_100m</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Waermeentzugsleistung100m</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Waermeentzugsleistung40m">
+			<description>Waermeentzugsleistung40m - https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_40m</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Waermeentzugsleistung40m</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Waermeentzugsleistung60m">
+			<description>Waermeentzugsleistung60m - https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_60m</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Waermeentzugsleistung60m</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Waermeentzugsleistung80m">
+			<description>Waermeentzugsleistung80m - https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_80m</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Waermeentzugsleistung80m</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="WasserUndBodenverbaende">
+			<description>WasserUndBodenverbaende - https://geodienste.hamburg.de/HH_WFS_Wasser_und_Bodenverbaende#wasser_und_bodenverbaende</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">WasserUndBodenverbaende</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Wasserversorgungsgebiet">
+			<description>Wasserversorgungsgebiet - https://geodienste.hamburg.de/HH_WFS_Wasserversorgungsgebiet_Hamburg_Wasser#wasserversorgungsgebiet</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Wasserversorgungsgebiet</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Windkraftanlage">
+			<description>Windkraftanlage - https://geodienste.hamburg.de/HH_WFS_Windkraftanlagen#wka</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Windkraftanlage</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="XPlan_BP">
+			<description>XPlan_BP - https://geodienste.hamburg.de/HH_WFS_Bebauungsplaene</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">XPlan_BP</identifier>
+		</Definition>
+	</dictionaryEntry>
+</Dictionary>

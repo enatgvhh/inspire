@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="PlanTypeNameValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Bezeichnung des Plantyps. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/PlanTypeNameValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">PlanTypeNameValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="6_Bebauungsplan">
+      <description>BPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_Bebauungsplan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="6_3_EinfacherBPlan">
+      <description>EinfacherBPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_3_EinfacherBPlan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="6_1_QualifizierterBPlan">
+      <description>QualifizierterBPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_1_QualifizierterBPlan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="6_2_VorhabenbezogenerBPlan">
+      <description>VorhabenbezogenerBPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_2_VorhabenbezogenerBPlan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="7_InnenbereichsSatzung">
+      <description>InnenbereichsSatzung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">7_InnenbereichsSatzung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="7_1_KlarstellungsSatzung">
+      <description>KlarstellungsSatzung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">7_1_KlarstellungsSatzung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="7_2_EntwicklungsSatzung">
+      <description>EntwicklungsSatzung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">7_2_EntwicklungsSatzung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="7_3_ErgaenzungsSatzung">
+      <description>ErgaenzungsSatzung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">7_3_ErgaenzungsSatzung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="8_AussenbereichsSatzung">
+      <description>AussenbereichsSatzung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">8_AussenbereichsSatzung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="9_2_SonstigesPlanwerkStaedtebaurecht">
+      <description>SonstigesPlanwerkStaedtebaurecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">9_2_SonstigesPlanwerkStaedtebaurecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>
