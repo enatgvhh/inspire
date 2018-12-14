@@ -15,4 +15,3 @@ Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, ...
 * [INSPIRE Codelisten-Register](http://inspire.ec.europa.eu/codelist/)
 * [ETF Validator](http://inspire-sandbox.jrc.ec.europa.eu/etf-webapp/)
 * [Community Board](https://trello.com/b/0LTWeTBH/willkommens-board)
-* [Download](https://bitbucket.org/lgv-inspire/lgv-inspire/downloads/)
