@@ -4,7 +4,7 @@ INSPIRE - LGV Hamburg
 =====================
 Umsetzung [INSPIRE](https://inspire.ec.europa.eu/data-specifications/2892) in Hamburg.
 
-Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, ...  
+Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, INSPIRE GML-Examples
 
 ## Links
 * [INSPIRE GML Examples](https://themes.jrc.ec.europa.eu/liked_content/user/n0021zft)
