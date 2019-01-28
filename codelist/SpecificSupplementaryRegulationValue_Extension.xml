@@ -3,6 +3,1674 @@
   <description>Kategorie ergänzender Vorschriften in einer vom Datenanbieter angegebenen Systematik ergänzender Vorschriften. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/SpecificSupplementaryRegulationValue.</description>
   <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">SpecificSupplementaryRegulationValue_Extension</identifier>
   <dictionaryEntry>
+    <Definition gml:id="2_1_Abgrabung">
+      <description>Abgrabung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_1_Abgrabung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_2_AnpassungKlimawandel">
+      <description>AnpassungKlimawandel</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_2_AnpassungKlimawandel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_3_Aufschuettung">
+      <description>Aufschuettung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_3_Aufschuettung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_4_1_SchutzPflege">
+      <description>SchutzPflege</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_4_1_SchutzPflege</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_4_2_Entwicklung">
+      <description>Entwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_4_2_Entwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_4_3_Anlage">
+      <description>Anlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_4_3_Anlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_4_4_SchutzPflegeEntwicklung">
+      <description>SchutzPflegeEntwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_4_4_SchutzPflegeEntwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_4_5_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_4_5_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_4_AusgleichsFlaeche">
+      <description>AusgleichsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_4_AusgleichsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_1_WohnBauflaeche">
+      <description>WohnBauflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_1_WohnBauflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_2_GemischteBauflaeche">
+      <description>GemischteBauflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_2_GemischteBauflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_3_GewerblicheBauflaeche">
+      <description>GewerblicheBauflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_3_GewerblicheBauflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_4_SonderBauflaeche">
+      <description>SonderBauflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_4_SonderBauflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_5_SonstigeBauflaeche">
+      <description>SonstigeBauflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_5_SonstigeBauflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_1_1_Kleinsiedlungsgebiet">
+      <description>Kleinsiedlungsgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_1_1_Kleinsiedlungsgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_1_2_ReinesWohngebiet">
+      <description>ReinesWohngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_1_2_ReinesWohngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_1_3_AllgWohngebiet">
+      <description>AllgWohngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_1_3_AllgWohngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_1_4_BesonderesWohngebiet">
+      <description>BesonderesWohngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_1_4_BesonderesWohngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_2_1_Dorfgebiet">
+      <description>Dorfgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_2_1_Dorfgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_2_2_Mischgebiet">
+      <description>Mischgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_2_2_Mischgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_2_3_UrbanesGebiet">
+      <description>UrbanesGebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_2_3_UrbanesGebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_2_4_Kerngebiet">
+      <description>Kerngebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_2_4_Kerngebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_3_1_Gewerbegebiet">
+      <description>Gewerbegebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_3_1_Gewerbegebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_3_2_Industriegebiet">
+      <description>Industriegebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_3_2_Industriegebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_4_1_SondergebietErholung">
+      <description>SondergebietErholung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_4_1_SondergebietErholung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_4_2_SondergebietSonst">
+      <description>SondergebietSonst</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_4_2_SondergebietSonst</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_4_3_Wochenendhausgebiet">
+      <description>Wochenendhausgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_4_3_Wochenendhausgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_4_4_Sondergebiet">
+      <description>Sondergebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_4_4_Sondergebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_5_1_SonstigesGebiet">
+      <description>SonstigesGebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_5_1_SonstigesGebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_5_BebauungsFlaeche">
+      <description>BebauungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_5_BebauungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_6_Bodenschaetze">
+      <description>Bodenschaetze</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_6_Bodenschaetze</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_1_OeffentlicheVerwaltung">
+      <description>OeffentlicheVerwaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_1_OeffentlicheVerwaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_2_BildungForschung">
+      <description>BildungForschung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_2_BildungForschung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_3_Kirche">
+      <description>Kirche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_3_Kirche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_4_Sozial">
+      <description>Sozial</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_4_Sozial</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_5_Gesundheit">
+      <description>Gesundheit</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_5_Gesundheit</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_6_Kultur">
+      <description>Kultur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_6_Kultur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_7_Sport">
+      <description>Sport</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_7_Sport</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_8_SicherheitOrdnung">
+      <description>SicherheitOrdnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_8_SicherheitOrdnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_9_Infrastruktur">
+      <description>Infrastruktur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_9_Infrastruktur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_10_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_10_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_1_1_KommunaleEinrichtung">
+      <description>KommunaleEinrichtung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_1_1_KommunaleEinrichtung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_1_2_BetriebOeffentlZweckbestimmung">
+      <description>BetriebOeffentlZweckbestimmung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_1_2_BetriebOeffentlZweckbestimmung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_1_3_AnlageBundLand">
+      <description>AnlageBundLand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_1_3_AnlageBundLand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_1_4_SonstigeOeffentlicheVerwaltung">
+      <description>SonstigeOeffentlicheVerwaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_1_4_SonstigeOeffentlicheVerwaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_2_1_Schule">
+      <description>Schule</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_2_1_Schule</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_2_2_Hochschule">
+      <description>Hochschule</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_2_2_Hochschule</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_2_3_BerufsbildendeSchule">
+      <description>BerufsbildendeSchule</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_2_3_BerufsbildendeSchule</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_2_4_Forschungseinrichtung">
+      <description>Forschungseinrichtung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_2_4_Forschungseinrichtung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_2_5_SonstigesBildungForschung">
+      <description>SonstigesBildungForschung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_2_5_SonstigesBildungForschung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_3_1_Sakralgebaeude">
+      <description>Sakralgebaeude</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_3_1_Sakralgebaeude</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_3_2_KirchlicheVerwaltung">
+      <description>KirchlicheVerwaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_3_2_KirchlicheVerwaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_3_3_Kirchengemeinde">
+      <description>Kirchengemeinde</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_3_3_Kirchengemeinde</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_3_4_SonstigesKirche">
+      <description>SonstigesKirche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_3_4_SonstigesKirche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_4_1_EinrichtungKinder">
+      <description>EinrichtungKinder</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_4_1_EinrichtungKinder</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_4_2_EinrichtungJugendliche">
+      <description>EinrichtungJugendliche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_4_2_EinrichtungJugendliche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_4_3_EinrichtungFamilienErwachsene">
+      <description>EinrichtungFamilienErwachsene</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_4_3_EinrichtungFamilienErwachsene</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_4_4_EinrichtungSenioren">
+      <description>EinrichtungSenioren</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_4_4_EinrichtungSenioren</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_4_5_SonstigeSozialeEinrichtung">
+      <description>SonstigeSozialeEinrichtung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_4_5_SonstigeSozialeEinrichtung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_5_1_Krankenhaus">
+      <description>Krankenhaus</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_5_1_Krankenhaus</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_5_2_SonstigesGesundheit">
+      <description>SonstigesGesundheit</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_5_2_SonstigesGesundheit</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_6_1_MusikTheater">
+      <description>MusikTheater</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_6_1_MusikTheater</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_6_2_Bildung">
+      <description>Bildung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_6_2_Bildung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_6_3_SonstigeKultur">
+      <description>SonstigeKultur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_6_3_SonstigeKultur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_7_1_Bad">
+      <description>Bad</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_7_1_Bad</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_7_2_SportplatzSporthalle">
+      <description>SportplatzSporthalle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_7_2_SportplatzSporthalle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_7_3_SonstigerSport">
+      <description>SonstigerSport</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_7_3_SonstigerSport</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_8_1_Feuerwehr">
+      <description>Feuerwehr</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_8_1_Feuerwehr</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_8_2_Schutzbauwerk">
+      <description>Schutzbauwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_8_2_Schutzbauwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_8_3_Justiz">
+      <description>Justiz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_8_3_Justiz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_8_4_SonstigeSicherheitOrdnung">
+      <description>SonstigeSicherheitOrdnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_8_4_SonstigeSicherheitOrdnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_9_1_Post">
+      <description>Post</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_9_1_Post</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_9_2_SonstigeInfrastruktur">
+      <description>SonstigeInfrastruktur</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_9_2_SonstigeInfrastruktur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_7_Gemeinbedarf">
+      <description>Gemeinbedarf</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_7_Gemeinbedarf</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_8_GenerischesObjekt">
+      <description>GenerischesObjekt</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_8_GenerischesObjekt</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_9_1_Hafen">
+      <description>Hafen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_9_1_Hafen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_9_2_Wasserflaeche">
+      <description>Wasserflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_9_2_Wasserflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_9_3_Fliessgewaesser">
+      <description>Fliessgewaesser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_9_3_Fliessgewaesser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_9_4_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_9_4_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_9_Gewaesser">
+      <description>Gewaesser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_9_Gewaesser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_1_Parkanlage">
+      <description>Parkanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_1_Parkanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_2_Dauerkleingarten">
+      <description>Dauerkleingarten</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_2_Dauerkleingarten</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_Sportplatz">
+      <description>Sportplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_Sportplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_4_Spielplatz">
+      <description>Spielplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_4_Spielplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_5_Zeltplatz">
+      <description>Zeltplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_5_Zeltplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_6_Badeplatz">
+      <description>Badeplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_6_Badeplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_7_FreizeitErholung">
+      <description>FreizeitErholung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_7_FreizeitErholung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_SpezGruenflaeche">
+      <description>SpezGruenflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_SpezGruenflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_9_Friedhof">
+      <description>Friedhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_9_Friedhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_10_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_10_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_1_1_ParkanlageHistorisch">
+      <description>ParkanlageHistorisch</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_1_1_ParkanlageHistorisch</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_1_2_ParkanlageNaturnah">
+      <description>ParkanlageNaturnah</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_1_2_ParkanlageNaturnah</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_1_3_ParkanlageWaldcharakter">
+      <description>ParkanlageWaldcharakter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_1_3_ParkanlageWaldcharakter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_1_4_NaturnaheUferParkanlage">
+      <description>NaturnaheUferParkanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_1_4_NaturnaheUferParkanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_2_1_ErholungsGaerten">
+      <description>ErholungsGaerten</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_2_1_ErholungsGaerten</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_1_Reitsportanlage">
+      <description>Reitsportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_1_Reitsportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_2_Hundesportanlage">
+      <description>Hundesportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_2_Hundesportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_3_Wassersportanlage">
+      <description>Wassersportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_3_Wassersportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_4_Schiessstand">
+      <description>Schiessstand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_4_Schiessstand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_5_Golfplatz">
+      <description>Golfplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_5_Golfplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_6_Skisport">
+      <description>Skisport</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_6_Skisport</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_7_Tennisanlage">
+      <description>Tennisanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_7_Tennisanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_3_8_SonstigerSportplatz">
+      <description>SonstigerSportplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_3_8_SonstigerSportplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_4_1_Bolzplatz">
+      <description>Bolzplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_4_1_Bolzplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_4_2_Abenteuerspielplatz">
+      <description>Abenteuerspielplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_4_2_Abenteuerspielplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_5_1_Campingplatz">
+      <description>Campingplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_5_1_Campingplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_7_1_Kleintierhaltung">
+      <description>Kleintierhaltung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_7_1_Kleintierhaltung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_7_2_Festplatz">
+      <description>Festplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_7_2_Festplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_1_StrassenbegleitGruen">
+      <description>StrassenbegleitGruen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_1_StrassenbegleitGruen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_2_BoeschungsFlaeche">
+      <description>BoeschungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_2_BoeschungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_3_FeldWaldWiese">
+      <description>FeldWaldWiese</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_3_FeldWaldWiese</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_4_Uferschutzstreifen">
+      <description>Uferschutzstreifen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_4_Uferschutzstreifen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_5_Abschirmgruen">
+      <description>Abschirmgruen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_5_Abschirmgruen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_6_UmweltbildungsparkSchaugatter">
+      <description>UmweltbildungsparkSchaugatter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_6_UmweltbildungsparkSchaugatter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_8_7_RuhenderVerkehr">
+      <description>RuhenderVerkehr</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_8_7_RuhenderVerkehr</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_10_1_Gaertnerei">
+      <description>Gaertnerei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_10_1_Gaertnerei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_10_Gruen">
+      <description>Gruen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_10_Gruen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_11_KeineZentrAbwasserBeseitigungFlaeche">
+      <description>KeineZentrAbwasserBeseitigungFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_11_KeineZentrAbwasserBeseitigungFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_1_Naturgewalten">
+      <description>Naturgewalten</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_1_Naturgewalten</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_2_Abbauflaeche">
+      <description>Abbauflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_2_Abbauflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_3_AeussereEinwirkungen">
+      <description>AeussereEinwirkungen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_3_AeussereEinwirkungen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_4_SchadstoffBelastBoden">
+      <description>SchadstoffBelastBoden</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_4_SchadstoffBelastBoden</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_5_LaermBelastung">
+      <description>LaermBelastung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_5_LaermBelastung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_6_Bergbau">
+      <description>Bergbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_6_Bergbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_7_Bodenordnung">
+      <description>Bodenordnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_7_Bodenordnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_8_Vorhabensgebiet">
+      <description>Vorhabensgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_8_Vorhabensgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_9_AndereGesetzlVorschriften">
+      <description>AndereGesetzlVorschriften</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_9_AndereGesetzlVorschriften</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_12_Kennzeichnung">
+      <description>Kennzeichnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_12_Kennzeichnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_1_LandwirtschaftAllgemein">
+      <description>LandwirtschaftAllgemein</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_1_LandwirtschaftAllgemein</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_2_Ackerbau">
+      <description>Ackerbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_2_Ackerbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_3_WiesenWeidewirtschaft">
+      <description>WiesenWeidewirtschaft</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_3_WiesenWeidewirtschaft</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_4_GartenbaulicheErzeugung">
+      <description>GartenbaulicheErzeugung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_4_GartenbaulicheErzeugung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_5_Obstbau">
+      <description>Obstbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_5_Obstbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_6_Weinbau">
+      <description>Weinbau</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_6_Weinbau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_7_Imkerei">
+      <description>Imkerei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_7_Imkerei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_8_Binnenfischerei">
+      <description>Binnenfischerei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_8_Binnenfischerei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_9_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_9_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_13_LandwirtschaftsFlaeche">
+      <description>LandwirtschaftsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_13_LandwirtschaftsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_14_NutzungsbeschraenkungsFlaeche">
+      <description>NutzungsbeschraenkungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_14_NutzungsbeschraenkungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_1_LandForstwirtschaft">
+      <description>LandForstwirtschaft</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_1_LandForstwirtschaft</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_2_OeffentlicheVersorgung">
+      <description>OeffentlicheVersorgung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_2_OeffentlicheVersorgung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_3_OrtsgebundenerGewerbebetrieb">
+      <description>OrtsgebundenerGewerbebetrieb</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_3_OrtsgebundenerGewerbebetrieb</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_4_BesonderesVorhaben">
+      <description>BesonderesVorhaben</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_4_BesonderesVorhaben</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_5_ErneuerbareEnergien">
+      <description>ErneuerbareEnergien</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_5_ErneuerbareEnergien</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_6_Kernenergie">
+      <description>Kernenergie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_6_Kernenergie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_7_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_7_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_1_1_Aussiedlerhof">
+      <description>Aussiedlerhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_1_1_Aussiedlerhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_1_2_Altenteil">
+      <description>Altenteil</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_1_2_Altenteil</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_1_3_Reiterhof">
+      <description>Reiterhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_1_3_Reiterhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_1_4_Gartenbaubetrieb">
+      <description>Gartenbaubetrieb</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_1_4_Gartenbaubetrieb</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_1_5_Baumschule">
+      <description>Baumschule</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_1_5_Baumschule</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_2_1_Wasser">
+      <description>Wasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_2_1_Wasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_2_2_Gas">
+      <description>Gas</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_2_2_Gas</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_2_3_Waerme">
+      <description>Waerme</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_2_3_Waerme</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_2_4_Elektrizitaet">
+      <description>Elektrizitaet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_2_4_Elektrizitaet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_2_5_Telekommunikation">
+      <description>Telekommunikation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_2_5_Telekommunikation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_2_6_Abwasser">
+      <description>Abwasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_2_6_Abwasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_4_1_BesondereUmgebungsAnforderung">
+      <description>BesondereUmgebungsAnforderung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_4_1_BesondereUmgebungsAnforderung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_4_2_NachteiligeUmgebungsWirkung">
+      <description>NachteiligeUmgebungsWirkung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_4_2_NachteiligeUmgebungsWirkung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_4_3_BesondereZweckbestimmung">
+      <description>BesondereZweckbestimmung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_4_3_BesondereZweckbestimmung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_5_1_Windenergie">
+      <description>Windenergie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_5_1_Windenergie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_5_2_Wasserenergie">
+      <description>Wasserenergie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_5_2_Wasserenergie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_5_3_Solarenergie">
+      <description>Solarenergie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_5_3_Solarenergie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_5_4_Biomasse">
+      <description>Biomasse</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_5_4_Biomasse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_6_1_NutzungKernerergie">
+      <description>NutzungKernerergie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_6_1_NutzungKernerergie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_6_2_EntsorgungRadioaktiveAbfaelle">
+      <description>EntsorgungRadioaktiveAbfaelle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_6_2_EntsorgungRadioaktiveAbfaelle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_7_1_StandortEinzelhof">
+      <description>StandortEinzelhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_7_1_StandortEinzelhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_7_2_BebauteFlaecheAussenbereich">
+      <description>BebauteFlaecheAussenbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_7_2_BebauteFlaecheAussenbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_15_PrivilegiertesVorhaben">
+      <description>PrivilegiertesVorhaben</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_15_PrivilegiertesVorhaben</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_16_1_SchutzPflege">
+      <description>SchutzPflege</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_16_1_SchutzPflege</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_16_2_Entwicklung">
+      <description>Entwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_16_2_Entwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_16_3_Anlage">
+      <description>Anlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_16_3_Anlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_16_4_SchutzPflegeEntwicklung">
+      <description>SchutzPflegeEntwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_16_4_SchutzPflegeEntwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_16_5_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_16_5_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_16_SchutzPflegeEntwicklung">
+      <description>SchutzPflegeEntwicklung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_16_SchutzPflegeEntwicklung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_17_1_Sportanlage">
+      <description>Sportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_17_1_Sportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_17_2_Spielanlage">
+      <description>Spielanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_17_2_Spielanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_17_3_SpielSportanlage">
+      <description>SpielSportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_17_3_SpielSportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_17_4_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_17_4_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_17_SpielSportanlage">
+      <description>SpielSportanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_17_SpielSportanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_1_Autobahn">
+      <description>Autobahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_1_Autobahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_2_Hauptverkehrsstrasse">
+      <description>Hauptverkehrsstrasse</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_2_Hauptverkehrsstrasse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_SonstigerVerkehrswegAnlage">
+      <description>SonstigerVerkehrswegAnlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_SonstigerVerkehrswegAnlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_4_RuhenderVerkehr">
+      <description>RuhenderVerkehr</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_4_RuhenderVerkehr</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_5_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_5_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_1_VerkehrsberuhigterBereich">
+      <description>VerkehrsberuhigterBereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_1_VerkehrsberuhigterBereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_2_Platz">
+      <description>Platz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_2_Platz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_3_Fussgaengerbereich">
+      <description>Fussgaengerbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_3_Fussgaengerbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_4_RadFussweg">
+      <description>RadFussweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_4_RadFussweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_5_Radweg">
+      <description>Radweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_5_Radweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_6_Fussweg">
+      <description>Fussweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_6_Fussweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_7_Wanderweg">
+      <description>Wanderweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_7_Wanderweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_8_ReitKutschweg">
+      <description>ReitKutschweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_8_ReitKutschweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_9_Rastanlage">
+      <description>Rastanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_9_Rastanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_10_Busbahnhof">
+      <description>Busbahnhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_10_Busbahnhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_4_1_Parkplatz">
+      <description>Parkplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_4_1_Parkplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_4_2_Fahrradabstellplatz">
+      <description>Fahrradabstellplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_4_2_Fahrradabstellplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_11_UeberfuehrenderVerkehrsweg">
+      <description>UeberfuehrenderVerkehrsweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_11_UeberfuehrenderVerkehrsweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_3_12_UnterfuehrenderVerkehrsweg">
+      <description>UnterfuehrenderVerkehrsweg</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_3_12_UnterfuehrenderVerkehrsweg</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_18_Strassenverkehr">
+      <description>Strassenverkehr</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_18_Strassenverkehr</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_19_TextlicheDarstellungsFlaeche">
+      <description>TextlicheDarstellungsFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_19_TextlicheDarstellungsFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_20_UnverbindlicheVormerkung">
+      <description>UnverbindlicheVormerkung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_20_UnverbindlicheVormerkung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_Elektrizitaet">
+      <description>Elektrizitaet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_Elektrizitaet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_2_Gas">
+      <description>Gas</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_2_Gas</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_3_Erdoel">
+      <description>Erdoel</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_3_Erdoel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_4_Waermeversorgung">
+      <description>Waermeversorgung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_4_Waermeversorgung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_5_Wasser">
+      <description>Wasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_5_Wasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_Abwasser">
+      <description>Abwasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_Abwasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_7_Regenwasser">
+      <description>Regenwasser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_7_Regenwasser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_8_Abfallentsorgung">
+      <description>Abfallentsorgung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_8_Abfallentsorgung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_9_Ablagerung">
+      <description>Ablagerung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_9_Ablagerung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_10_Telekommunikation">
+      <description>Telekommunikation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_10_Telekommunikation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_11_ErneuerbareEnergien">
+      <description>ErneuerbareEnergien</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_11_ErneuerbareEnergien</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_12_KraftWaermeKopplung">
+      <description>KraftWaermeKopplung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_12_KraftWaermeKopplung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_13_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_13_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_1_Hochspannungsleitung">
+      <description>Hochspannungsleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_1_Hochspannungsleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_2_TrafostationUmspannwerk">
+      <description>TrafostationUmspannwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_2_TrafostationUmspannwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_3_Solarkraftwerk">
+      <description>Solarkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_3_Solarkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_4_Windkraftwerk">
+      <description>Windkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_4_Windkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_5_Geothermiekraftwerk">
+      <description>Geothermiekraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_5_Geothermiekraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_6_Elektrizitaetswerk">
+      <description>Elektrizitaetswerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_6_Elektrizitaetswerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_7_Wasserkraftwerk">
+      <description>Wasserkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_7_Wasserkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_8_BiomasseKraftwerk">
+      <description>BiomasseKraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_8_BiomasseKraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_9_Kabelleitung">
+      <description>Kabelleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_9_Kabelleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_10_Niederspannungsleitung">
+      <description>Niederspannungsleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_10_Niederspannungsleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_2_1_Ferngasleitung">
+      <description>Ferngasleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_2_1_Ferngasleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_2_2_Gaswerk">
+      <description>Gaswerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_2_2_Gaswerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_2_3_Gasbehaelter">
+      <description>Gasbehaelter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_2_3_Gasbehaelter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_2_4_Gasdruckregler">
+      <description>Gasdruckregler</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_2_4_Gasdruckregler</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_2_5_Gasstation">
+      <description>Gasstation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_2_5_Gasstation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_2_6_Gasleitung">
+      <description>Gasleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_2_6_Gasleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_3_1_Erdoelleitung">
+      <description>Erdoelleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_3_1_Erdoelleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_3_2_Bohrstelle">
+      <description>Bohrstelle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_3_2_Bohrstelle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_3_3_Erdoelpumpstation">
+      <description>Erdoelpumpstation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_3_3_Erdoelpumpstation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_3_4_Oeltank">
+      <description>Oeltank</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_3_4_Oeltank</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_4_1_Blockheizkraftwerk">
+      <description>Blockheizkraftwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_4_1_Blockheizkraftwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_4_2_Fernwaermeleitung">
+      <description>Fernwaermeleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_4_2_Fernwaermeleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_4_3_Fernheizwerk">
+      <description>Fernheizwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_4_3_Fernheizwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_5_1_Wasserwerk">
+      <description>Wasserwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_5_1_Wasserwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_5_2_Wasserleitung">
+      <description>Wasserleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_5_2_Wasserleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_5_3_Wasserspeicher">
+      <description>Wasserspeicher</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_5_3_Wasserspeicher</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_5_4_Brunnen">
+      <description>Brunnen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_5_4_Brunnen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_5_5_Pumpwerk">
+      <description>Pumpwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_5_5_Pumpwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_5_6_Quelle">
+      <description>Quelle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_5_6_Quelle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_1_Abwasserleitung">
+      <description>Abwasserleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_1_Abwasserleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_2_Abwasserrueckhaltebecken">
+      <description>Abwasserrueckhaltebecken</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_2_Abwasserrueckhaltebecken</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_3_Abwasserpumpwerk">
+      <description>Abwasserpumpwerk</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_3_Abwasserpumpwerk</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_4_Klaeranlage">
+      <description>Klaeranlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_4_Klaeranlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_5_AnlageKlaerschlamm">
+      <description>AnlageKlaerschlamm</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_5_AnlageKlaerschlamm</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_6_SonstigeAbwasserBehandlungsanlage">
+      <description>SonstigeAbwasserBehandlungsanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_6_SonstigeAbwasserBehandlungsanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_6_7_SalzSoleeinleitungen">
+      <description>SalzSoleeinleitungen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_6_7_SalzSoleeinleitungen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_7_1_RegenwasserRueckhaltebecken">
+      <description>RegenwasserRueckhaltebecken</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_7_1_RegenwasserRueckhaltebecken</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_7_2_Niederschlagswasserleitung">
+      <description>Niederschlagswasserleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_7_2_Niederschlagswasserleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_8_1_Muellumladestation">
+      <description>Muellumladestation</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_8_1_Muellumladestation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_8_2_Muellbeseitigungsanlage">
+      <description>Muellbeseitigungsanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_8_2_Muellbeseitigungsanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_8_3_Muellsortieranlage">
+      <description>Muellsortieranlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_8_3_Muellsortieranlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_8_4_Recyclinghof">
+      <description>Recyclinghof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_8_4_Recyclinghof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_9_1_Erdaushubdeponie">
+      <description>Erdaushubdeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_9_1_Erdaushubdeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_9_2_Bauschuttdeponie">
+      <description>Bauschuttdeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_9_2_Bauschuttdeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_9_3_Hausmuelldeponie">
+      <description>Hausmuelldeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_9_3_Hausmuelldeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_9_4_Sondermuelldeponie">
+      <description>Sondermuelldeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_9_4_Sondermuelldeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_9_5_StillgelegteDeponie">
+      <description>StillgelegteDeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_9_5_StillgelegteDeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_9_6_RekultivierteDeponie">
+      <description>RekultivierteDeponie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_9_6_RekultivierteDeponie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_10_1_Fernmeldeanlage">
+      <description>Fernmeldeanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_10_1_Fernmeldeanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_10_2_Mobilfunkstrecke">
+      <description>Mobilfunkstrecke</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_10_2_Mobilfunkstrecke</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_10_3_Fernmeldekabel">
+      <description>Fernmeldekabel</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_10_3_Fernmeldekabel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_13_1_Produktenleitung">
+      <description>Produktenleitung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_13_1_Produktenleitung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_1_11_Leitungsmast">
+      <description>Leitungsmast</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_1_11_Leitungsmast</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_21_VerEntsorgung">
+      <description>VerEntsorgung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_21_VerEntsorgung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_22_VorbehalteFlaeche">
+      <description>VorbehalteFlaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_22_VorbehalteFlaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_24_1_HochwasserRueckhaltebecken">
+      <description>HochwasserRueckhaltebecken</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_24_1_HochwasserRueckhaltebecken</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_24_2_Ueberschwemmgebiet">
+      <description>Ueberschwemmgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_24_2_Ueberschwemmgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_24_3_Versickerungsflaeche">
+      <description>Versickerungsflaeche</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_24_3_Versickerungsflaeche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_24_4_Entwaesserungsgraben">
+      <description>Entwaesserungsgraben</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_24_4_Entwaesserungsgraben</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_24_5_Deich">
+      <description>Deich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_24_5_Deich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_24_6_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_24_6_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_24_Wasserwirtschaft">
+      <description>Wasserwirtschaft</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_24_Wasserwirtschaft</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="2_25_ZentralerVersorgungsbereich">
+      <description>ZentralerVersorgungsbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">2_25_ZentralerVersorgungsbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
     <Definition gml:id="3_1_AbgrabungsFlaeche">
       <description>AbgrabungsFlaeche</description>
       <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">3_1_AbgrabungsFlaeche</identifier>
@@ -2136,6 +3804,648 @@
     <Definition gml:id="3_56_7_GehFahrLeitungsrecht">
       <description>GehFahrLeitungsrecht</description>
       <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">3_56_7_GehFahrLeitungsrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_1_1_SchaedlicheBodenveraenderung">
+      <description>SchaedlicheBodenveraenderung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_1_1_SchaedlicheBodenveraenderung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_1_2_Altlast">
+      <description>Altlast</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_1_2_Altlast</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_1_1_1_Altablagerung">
+      <description>Altablagerung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_1_1_1_Altablagerung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_1_1_2_Altstandort">
+      <description>Altstandort</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_1_1_2_Altstandort</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_1_1_3_AltstandortAufAltablagerung">
+      <description>AltstandortAufAltablagerung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_1_1_3_AltstandortAufAltablagerung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_1_Bodenschutzrecht">
+      <description>Bodenschutzrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_1_Bodenschutzrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_1_DenkmalschutzEnsemble">
+      <description>DenkmalschutzEnsemble</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_2_1_DenkmalschutzEnsemble</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_2_DenkmalschutzEinzelanlage">
+      <description>DenkmalschutzEinzelanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_2_2_DenkmalschutzEinzelanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_3_Grabungsschutzgebiet">
+      <description>Grabungsschutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_2_3_Grabungsschutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_4_PufferzoneWeltkulturerbeEnger">
+      <description>PufferzoneWeltkulturerbeEnger</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_2_4_PufferzoneWeltkulturerbeEnger</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_5_PufferzoneWeltkulturerbeWeiter">
+      <description>PufferzoneWeltkulturerbeWeiter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_2_5_PufferzoneWeltkulturerbeWeiter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_6_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_2_6_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_Denkmalschutzrecht">
+      <description>Denkmalschutzrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_2_Denkmalschutzrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_3_1_OeffentlicherWald">
+      <description>OeffentlicherWald</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_3_1_OeffentlicherWald</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_3_2_Privatwald">
+      <description>Privatwald</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_3_2_Privatwald</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_3_3_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_3_3_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_3_Forstrecht">
+      <description>Forstrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_3_Forstrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_1_Umlegungsgebiet">
+      <description>Umlegungsgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_1_Umlegungsgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_2_StaedtebaulicheSanierung">
+      <description>StaedtebaulicheSanierung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_2_StaedtebaulicheSanierung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_3_StaedtebaulicheEntwicklungsmassnahme">
+      <description>StaedtebaulicheEntwicklungsmassnahme</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_3_StaedtebaulicheEntwicklungsmassnahme</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_4_Stadtumbaugebiet">
+      <description>Stadtumbaugebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_4_Stadtumbaugebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_5_SozialeStadt">
+      <description>SozialeStadt</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_5_SozialeStadt</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_6_BusinessImprovementDestrict">
+      <description>BusinessImprovementDestrict</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_6_BusinessImprovementDestrict</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_7_HousingImprovementDestrict">
+      <description>HousingImprovementDestrict</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_7_HousingImprovementDestrict</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_8_Erhaltungsverordnung">
+      <description>Erhaltungsverordnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_8_Erhaltungsverordnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_9_ErhaltungsverordnungStaedebaulicheGestalt">
+      <description>ErhaltungsverordnungStaedebaulicheGestalt</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_9_ErhaltungsverordnungStaedebaulicheGestalt</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_10_ErhaltungsverordnungWohnbevoelkerung">
+      <description>ErhaltungsverordnungWohnbevoelkerung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_10_ErhaltungsverordnungWohnbevoelkerung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_11_ErhaltungsverordnungUmstrukturierung">
+      <description>ErhaltungsverordnungUmstrukturierung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_11_ErhaltungsverordnungUmstrukturierung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_12_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_12_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_4_Gebiet">
+      <description>Gebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_4_Gebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_1_Flughafen">
+      <description>Flughafen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_1_Flughafen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_2_Landeplatz">
+      <description>Landeplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_2_Landeplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_3_Segelfluggelaende">
+      <description>Segelfluggelaende</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_3_Segelfluggelaende</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_4_HubschrauberLandeplatz">
+      <description>HubschrauberLandeplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_4_HubschrauberLandeplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_5_Ballonstartplatz">
+      <description>Ballonstartplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_5_Ballonstartplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_6_Haengegleiter">
+      <description>Haengegleiter</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_6_Haengegleiter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_7_Gleitsegler">
+      <description>Gleitsegler</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_7_Gleitsegler</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_8_Laermschutzbereich">
+      <description>Laermschutzbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_8_Laermschutzbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_9_Baubeschraenkungsbereich">
+      <description>Baubeschraenkungsbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_9_Baubeschraenkungsbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_10_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_10_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_6_Luftverkehrsrecht">
+      <description>Luftverkehrsrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_6_Luftverkehrsrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_1_Bahnanlage">
+      <description>Bahnanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_1_Bahnanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_2_Bahnlinie">
+      <description>Bahnlinie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_2_Bahnlinie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_3_OEPNV">
+      <description>OEPNV</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_3_OEPNV</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_4_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_4_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_1_1_DB_Bahnanlage">
+      <description>Bahnanlage</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_1_1_DB_Bahnanlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_1_2_Personenbahnhof">
+      <description>Personenbahnhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_1_2_Personenbahnhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_1_3_Fernbahnhof">
+      <description>Fernbahnhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_1_3_Fernbahnhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_1_4_Gueterbahnhof">
+      <description>Gueterbahnhof</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_1_4_Gueterbahnhof</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_2_1_Personenbahnlinie">
+      <description>Personenbahnlinie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_2_1_Personenbahnlinie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_2_2_Regionalbahn">
+      <description>Regionalbahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_2_2_Regionalbahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_2_3_Kleinbahn">
+      <description>Kleinbahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_2_3_Kleinbahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_2_4_Gueterbahnlinie">
+      <description>Gueterbahnlinie</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_2_4_Gueterbahnlinie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_2_5_WerksHafenbahn">
+      <description>WerksHafenbahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_2_5_WerksHafenbahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_2_6_Seilbahn">
+      <description>Seilbahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_2_6_Seilbahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_3_1_Strassenbahn">
+      <description>Strassenbahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_3_1_Strassenbahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_3_2_UBahn">
+      <description>UBahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_3_2_UBahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_3_3_SBahn">
+      <description>SBahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_3_3_SBahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_3_4_OEPNV_Haltestelle">
+      <description>Haltestelle</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_3_4_OEPNV_Haltestelle</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_7_Schienenverkehrsrecht">
+      <description>Schienenverkehrsrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_7_Schienenverkehrsrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_1_Naturschutzgebiet">
+      <description>Naturschutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_1_Naturschutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_2_Nationalpark">
+      <description>Nationalpark</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_2_Nationalpark</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_3_Biosphaerenreservat">
+      <description>Biosphaerenreservat</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_3_Biosphaerenreservat</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_4_Landschaftsschutzgebiet">
+      <description>Landschaftsschutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_4_Landschaftsschutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_5_Naturpark">
+      <description>Naturpark</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_5_Naturpark</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_6_Naturdenkmal">
+      <description>Naturdenkmal</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_6_Naturdenkmal</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_7_GeschuetzterLandschaftsBestandteil">
+      <description>GeschuetzterLandschaftsBestandteil</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_7_GeschuetzterLandschaftsBestandteil</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_8_GesetzlichGeschuetztesBiotop">
+      <description>GesetzlichGeschuetztesBiotop</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_8_GesetzlichGeschuetztesBiotop</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_9_Natura2000">
+      <description>Natura2000</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_9_Natura2000</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_10_NationalesNaturmonument">
+      <description>NationalesNaturmonument</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_10_NationalesNaturmonument</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_11_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_11_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_9_1_GebietGemeinschaftlicherBedeutung">
+      <description>GebietGemeinschaftlicherBedeutung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_9_1_GebietGemeinschaftlicherBedeutung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_9_2_EuropaeischesVogelschutzgebiet">
+      <description>EuropaeischesVogelschutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_9_2_EuropaeischesVogelschutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_8_SchutzgebietNaturschutzrecht">
+      <description>SchutzgebietNaturschutzrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_8_SchutzgebietNaturschutzrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_9_1_Laermschutzbereich">
+      <description>Laermschutzbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_9_1_Laermschutzbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_9_2_SchutzzoneLeitungstrasse">
+      <description>SchutzzoneLeitungstrasse</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_9_2_SchutzzoneLeitungstrasse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_9_3_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_9_3_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_9_SchutzgebietSonstigesRecht">
+      <description>SchutzgebietSonstigesRecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_9_SchutzgebietSonstigesRecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_10_1_Wasserschutzgebiet">
+      <description>Wasserschutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_10_1_Wasserschutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_10_2_Heilquellenschutzgebiet">
+      <description>Heilquellenschutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_10_2_Heilquellenschutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_10_3_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_10_3_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_10_1_1_QuellGrundwasserSchutzgebiet">
+      <description>QuellGrundwasserSchutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_10_1_1_QuellGrundwasserSchutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_10_1_2_OberflaechengewaesserSchutzgebiet">
+      <description>OberflaechengewaesserSchutzgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_10_1_2_OberflaechengewaesserSchutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_10_SchutzgebietWasserrecht">
+      <description>SchutzgebietWasserrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_10_SchutzgebietWasserrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_11_1_Bauschutzbereich">
+      <description>Bauschutzbereich</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_11_1_Bauschutzbereich</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_11_2_Berggesetz">
+      <description>Berggesetz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_11_2_Berggesetz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_11_3_Richtfunkverbindung">
+      <description>Richtfunkverbindung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_11_3_Richtfunkverbindung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_11_4_Truppenuebungsplatz">
+      <description>Truppenuebungsplatz</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_11_4_Truppenuebungsplatz</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_11_5_VermessungsKatasterrecht">
+      <description>VermessungsKatasterrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_11_5_VermessungsKatasterrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_11_6_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_11_6_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_11_SonstigesRecht">
+      <description>SonstigesRecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_11_SonstigesRecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_12_1_Bundesautobahn">
+      <description>Bundesautobahn</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_12_1_Bundesautobahn</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_12_2_Bundesstrasse">
+      <description>Bundesstrasse</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_12_2_Bundesstrasse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_12_3_LandesStaatsstrasse">
+      <description>LandesStaatsstrasse</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_12_3_LandesStaatsstrasse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_12_4_Kreisstrasse">
+      <description>Kreisstrasse</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_12_4_Kreisstrasse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_12_5_SonstOeffentlStrasse">
+      <description>SonstOeffentlStrasse</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_12_5_SonstOeffentlStrasse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_12_Strassenverkehrsrecht">
+      <description>Strassenverkehrsrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_12_Strassenverkehrsrecht</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_1_Gewaesser">
+      <description>Gewaesser</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_1_Gewaesser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_2_Ueberschwemmungsgebiet">
+      <description>Ueberschwemmungsgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_2_Ueberschwemmungsgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_3_Sonstiges">
+      <description>Sonstiges</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_3_Sonstiges</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_1_1_Gewaesser1Ordnung">
+      <description>Gewaesser1Ordnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_1_1_Gewaesser1Ordnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_1_2_Gewaesser2Ordnung">
+      <description>Gewaesser2Ordnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_1_2_Gewaesser2Ordnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_1_3_Gewaesser3Ordnung">
+      <description>Gewaesser3Ordnung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_1_3_Gewaesser3Ordnung</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_2_1_FestgesetztesUeberschwemmungsgebiet">
+      <description>FestgesetztesUeberschwemmungsgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_2_1_FestgesetztesUeberschwemmungsgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_2_2_NochNichtFestgesetztesUeberschwemmungsgebiet">
+      <description>NochNichtFestgesetztesUeberschwemmungsgebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_2_2_NochNichtFestgesetztesUeberschwemmungsgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_2_3_UeberschwemmGefaehrdetesGebiet">
+      <description>UeberschwemmGefaehrdetesGebiet</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_2_3_UeberschwemmGefaehrdetesGebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_13_Wasserrecht">
+      <description>Wasserrecht</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SpecificSupplementaryRegulationValue_Extension.xml">5_13_Wasserrecht</identifier>
     </Definition>
   </dictionaryEntry>
 </Dictionary>

@@ -3,15 +3,39 @@
   <description>Bezeichnung des Plantyps. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/PlanTypeNameValue.</description>
   <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">PlanTypeNameValue_Extension</identifier>
   <dictionaryEntry>
-    <Definition gml:id="6_Bebauungsplan">
-      <description>BPlan</description>
-      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_Bebauungsplan</identifier>
+    <Definition gml:id="4_1_RegFPlan">
+      <description>RegFPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">4_1_RegFPlan</identifier>
     </Definition>
   </dictionaryEntry>
   <dictionaryEntry>
-    <Definition gml:id="6_3_EinfacherBPlan">
-      <description>EinfacherBPlan</description>
-      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_3_EinfacherBPlan</identifier>
+    <Definition gml:id="4_2_GemeinsamerFPlan">
+      <description>GemeinsamerFPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">4_2_GemeinsamerFPlan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_1_FPlanRegPlan">
+      <description>FPlanRegPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">5_1_FPlanRegPlan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_2_FPlan">
+      <description>FPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">5_2_FPlan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="5_3_SachlicherTeilplan">
+      <description>SachlicherTeilplan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">5_3_SachlicherTeilplan</identifier>
+    </Definition>
+  </dictionaryEntry> 
+  <dictionaryEntry>
+    <Definition gml:id="6_Bebauungsplan">
+      <description>BPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_Bebauungsplan</identifier>
     </Definition>
   </dictionaryEntry>
   <dictionaryEntry>
@@ -24,6 +48,12 @@
     <Definition gml:id="6_2_VorhabenbezogenerBPlan">
       <description>VorhabenbezogenerBPlan</description>
       <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_2_VorhabenbezogenerBPlan</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="6_3_EinfacherBPlan">
+      <description>EinfacherBPlan</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/PlanTypeNameValue_Extension.xml">6_3_EinfacherBPlan</identifier>
     </Definition>
   </dictionaryEntry>
   <dictionaryEntry>
