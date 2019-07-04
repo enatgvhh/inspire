@@ -7,7 +7,7 @@ Umsetzung [INSPIRE](https://inspire.ec.europa.eu/data-specifications/2892) in Ha
 Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, INSPIRE GML-Examples, ...
 
 ## Links
-* [INSPIRE GML Examples](https://themes.jrc.ec.europa.eu/liked_content/user/n0021zft)
+* [INSPIRE GML Examples](https://inspire.ec.europa.eu/forum/file/owner/n0021zft)
 * [INSPIRE Index Schemas](http://inspire.ec.europa.eu/schemas/)
 * [INSPIRE Codelisten-Register](http://inspire.ec.europa.eu/codelist/)
 * [ETF Validator](http://inspire-sandbox.jrc.ec.europa.eu/etf-webapp/)
