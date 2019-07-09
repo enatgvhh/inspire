@@ -3,6 +3,12 @@
   <description>Anlagentyp. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/InstallationTypeValue.</description>
   <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">InstallationTypeValue_Extension</identifier>
   <dictionaryEntry>
+    <Definition gml:id="BImSchG_Anlage">
+      <description>Anlage nach BImSchG.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/InstallationTypeValue_Extension.xml">BImSchG_Anlage</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
     <Definition gml:id="Windkraftanlage">
       <description>Windkraftanlage, Windenergieanlage.</description>
       <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/InstallationTypeValue_Extension.xml">Windkraftanlage</identifier>

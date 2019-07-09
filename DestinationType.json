@@ -1,174 +1,104 @@
 [
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/ad/4.0/Addresses.xsd#Address",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/ad/4.0/Addresses.xsd#{Address,AdminUnitName,ThoroughfareName,PostalDescriptor}",
       "schema" : "ad",
       "source" : {
          "name" : "DOG_Adressen",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Hauskoordinaten"
+         "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#{Hauskoordinaten,Bundeslaender,Regierungsbezirke,Kreise,Gemeinden,Ortsteile,Strassen,Postleitzahlgebiete}"
       }
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/ad/4.0/Addresses.xsd#AdminUnitName",
-      "schema" : "ad",
-      "source" : [
-         {
-            "name" : "DOG_Land",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Bundeslaender"
-         },
-         {
-            "name" : "DOG_Bezirke",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Regierungsbezirke"
-         },
-         {
-            "name" : "DOG_Kreise",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Kreise"
-         },
-         {
-            "name" : "DOG_Gemeinden",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Gemeinden"
-         },
-         {
-            "name" : "DOG_Ortsteile",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Ortsteile"
-         }
-      ]
-   },
-   {
-      "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/ad/4.0/Addresses.xsd#ThoroughfareName",
-      "schema" : "ad",
-      "source" : {
-         "name" : "DOG_Strassen",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Strassen"
-      }
-   },
-   {
-      "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/ad/4.0/Addresses.xsd#PostalDescriptor",
-      "schema" : "ad",
-      "source" : {
-         "name" : "DOG_PLZ",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_DOG#Postleitzahlgebiete"
-      }
-   },
-   {
-      "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/am/4.0/AreaManagementRestrictionRegulationZone.xsd#ManagementRestrictionOrRegulationZone",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/am/4.0/AreaManagementRestrictionRegulationZone.xsd#{ManagementRestrictionOrRegulationZone}",
       "schema" : "am",
       "source" : [
          {
             "name" : "Hafengebietsgrenzen",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Hafengebietsgrenzen#hafengebietsgrenzen"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Hafengebietsgrenzen#{hafengebietsgrenzen}"
          },
          {
             "name" : "Kompensationsverzeichnis",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Ausgleichsflaechen#ausgleichsflaechen"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Ausgleichsflaechen#{ausgleichsflaechen}"
          },
          {
             "name" : "WasserUndBodenverbaende",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Wasser_und_Bodenverbaende#wasser_und_bodenverbaende"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Wasser_und_Bodenverbaende#{wasser_und_bodenverbaende}"
          },
          {
-            "name" : "FluglaermschutzzoneNacht",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Fluglaermschutzzonen#Nacht_Schutzzone"
-         },
-         {
-            "name" : "Fluglaermschutzzone1Tag",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Fluglaermschutzzonen#Tag_Schutzzone_1"
-         },
-         {
-            "name" : "Fluglaermschutzzone2Tag",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Fluglaermschutzzonen#Tag_Schutzzone_2"
+            "name" : "Fluglaermschutzzone",
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Fluglaermschutzzonen#{Nacht_Schutzzone,Tag_Schutzzone_1,Tag_Schutzzone_2}"
          },
          {
             "name" : "BauschutzbereichLuftVG",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Bauschutzbereich_12_LuftVG#baubeschraenkungen"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Bauschutzbereich_12_LuftVG#{baubeschraenkungen_fhb_1500_4000_6000m_erase_3,para12_abs3_s1_nr1a_luftvg,para12_abs3_s1_nr1b_luftvg}"
          }
       ]
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/au/4.0/AdministrativeUnits.xsd#AdministrativeBoundary",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/au/4.0/AdministrativeUnits.xsd#{AdministrativeUnit,AdministrativeBoundary}",
       "schema" : "au",
       "source" : {
          "name" : "LAU_Stadt",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#landesgrenze"
+         "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#{landesgrenze}"
       }
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/au/4.0/AdministrativeUnits.xsd#AdministrativeUnit",
-      "schema" : "au",
-      "source" : {
-         "name" : "LAU_Stadt",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#landesgrenze"
-      }
-   },
-   {
-      "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/ef/4.0/EnvironmentalMonitoringFacilities.xsd#EnvironmentalMonitoringFacility",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/ef/4.0/EnvironmentalMonitoringFacilities.xsd#{EnvironmentalMonitoringFacility}",
       "schema" : "ef",
       "source" : {
-         "name" : "SWIS-Sensoren",
-         "type" : "https://geodienste.hamburg.de/DE_HH_INSPIRE_WFS_SWIS_Sensoren#swis_sensoren"
+         "name" : "SWIS_Sensoren",
+         "type" : "https://geodienste.hamburg.de/DE_HH_INSPIRE_WFS_SWIS_Sensoren#{swis_sensoren}"
       }
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/er-c/4.0/EnergyResourcesCoverage.xsd#RenewableAndWastePotentialCoverage",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/er-c/4.0/EnergyResourcesCoverage.xsd#{RenewableAndWastePotentialCoverage}",
       "schema" : "er-c",
-      "source" : [
-         {
-            "name" : "Temperatur100mGroundLevel",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Geothermie#temperatur_in_100m_unter_gelaende"
-         },
-         {
-            "name" : "Temperatur100mNHN",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Geothermie#temperatur_in_minus_100mnhn"
-         },
-         {
-            "name" : "Waermeentzugsleistung100m",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_100m"
-         },
-         {
-            "name" : "Waermeentzugsleistung80m",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_80m"
-         },
-         {
-            "name" : "Waermeentzugsleistung60m",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_60m"
-         },
-         {
-            "name" : "Waermeentzugsleistung40m",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Geothermie#waermeentzugsleistung_bis_40m"
-         }
-      ]
+      "source" : {
+         "name" : "Geothermie",
+         "type" : "https://geodienste.hamburg.de/HH_WFS_Geothermie#{temperatur_in_100m_unter_gelaende,temperatur_in_minus_100mnhn,waermeentzugsleistung_bis_100m,waermeentzugsleistung_bis_80m,waermeentzugsleistung_bis_60m,waermeentzugsleistung_bis_40m}"
+      }
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/er-v/4.0/EnergyResourcesVector.xsd#RenewableAndWasteResource",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/er-v/4.0/EnergyResourcesVector.xsd#{RenewableAndWasteResource}",
       "schema" : "er-v",
       "source" : {
          "name" : "Windkraftanlage",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Windkraftanlagen#wka"
+         "type" : "https://geodienste.hamburg.de/HH_WFS_Windkraftanlagen#{wka}"
       }
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/gn/4.0/GeographicalNames.xsd#NamedPlace",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/gn/4.0/GeographicalNames.xsd#{NamedPlace}",
       "schema" : "gn",
-      "source" : {
-         "name" : "INSPIRE_VectorStatisticalUnit",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_INSPIRE_SU#VectorStatisticalUnit"
-      }
+      "source" : [
+         {
+            "name" : "INSPIRE_VectorStatisticalUnit",
+            "type" : "https://geodienste.hamburg.de/HH_WFS_INSPIRE_Statistical_Units#{VectorStatisticalUnit}"
+         },
+         {
+            "name" : "AAA_ALKIS",
+            "type" : "local#alkis-nas-files"
+         },
+         {
+            "name" : "AAA_ATKIS",
+            "type" : "local#atkis_nas_files"
+         }
+      ]
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/oi/4.0/Orthoimagery.xsd#OrthoimageCoverage",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/oi/4.0/Orthoimagery.xsd#{OrthoimageCoverage}",
       "schema" : "oi",
       "source" : [
+         {
+            "name" : "DOP20_2018",
+            "type" : "http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20/DOP20_HH_fruehjahrsbefliegung_2018.zip"
+         },
          {
             "name" : "DOP20_2017",
             "type" : "http://daten-hamburg.de/geographie_geologie_geobasisdaten/digitale_orthophotos/DOP20/DOP20_HH_fruehjahrsbefliegung_2017.zip"
@@ -201,153 +131,165 @@
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/pd/4.0/PopulationDistributionDemography.xsd#StatisticalDistribution",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/pd/4.0/PopulationDistributionDemography.xsd#{StatisticalDistribution}",
       "schema" : "pd",
       "source" : [
          {
-            "name" : "Bevoelkerung",
+            "name" : "Bevoelkerung18",
+            "type" : "https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j18.xlsx"
+         },
+         {
+            "name" : "Bevoelkerung17",
             "type" : "https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j17.xlsx"
          },
          {
+            "name" : "Bevoelkerung16",
+            "type" : "https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j16.xlsx"
+         },
+         {
+            "name" : "Bevoelkerung15",
+            "type" : "https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j15.xlsx"
+         },
+         {
+            "name" : "Bevoelkerung14",
+            "type" : "https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j14.xlsx"
+         },
+         {
+            "name" : "Bevoelkerung13",
+            "type" : "https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j13.xlsx"
+         },
+         {
             "name" : "INSPIRE_VectorStatisticalUnit",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_INSPIRE_SU#VectorStatisticalUnit"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_INSPIRE_Statistical_Units#{VectorStatisticalUnit}"
          }
       ]
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/pf/4.0/ProductionAndIndustrialFacilities.xsd#ProductionFacility",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/pf/4.0/ProductionAndIndustrialFacilities.xsd#{ProductionFacility}",
       "schema" : "pf",
       "source" : [
          {
             "name" : "Abfallentsorgung",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#abfallentsorgung"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#{abfallentsorgung}"
          },
          {
             "name" : "Abfallverbrennung",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#abfallverbrennung"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#{abfallverbrennung}"
          }
       ]
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/pf/4.0/ProductionAndIndustrialFacilities.xsd#ProductionInstallation",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/pf/4.0/ProductionAndIndustrialFacilities.xsd#{ProductionInstallation}",
       "schema" : "pf",
-      "source" : {
-         "name" : "Windkraftanlage",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Windkraftanlagen#wka"
-      }
+      "source" : [
+         {
+            "name" : "Windkraftanlage",
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Windkraftanlagen#{wka}"
+         },
+         {
+            "name" : "BImSchG_Anlage",
+            "type" : "https://geodienste.hamburg.de/HH_WFS_BImSchG_auf_Anlagenebene#{bimschg_auf_anlagenebene}"
+         }
+      ]
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/plu/4.0/PlannedLandUse.xsd#ZoningElement",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/plu/4.0/PlannedLandUse.xsd#{SpatialPlan,ZoningElement,SupplementaryRegulation,OfficialDocumentation}",
       "schema" : "plu",
       "source" : {
-         "name" : "XPlan_BP",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Bebauungsplaene"
+         "name" : "XPlan_BP_Plan",
+         "type" : "https://geodienste.hamburg.de/HH_WFS_Bebauungsplaene#{xplan:BP_Plan,...}"
       }
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/plu/4.0/PlannedLandUse.xsd#OfficialDocumentation",
-      "schema" : "plu",
-      "source" : {
-         "name" : "XPlan_BP",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Bebauungsplaene"
-      }
-   },
-   {
-      "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/plu/4.0/PlannedLandUse.xsd#SpatialPlan",
-      "schema" : "plu",
-      "source" : {
-         "name" : "XPlan_BP",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Bebauungsplaene"
-      }
-   },
-   {
-      "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/plu/4.0/PlannedLandUse.xsd#SupplementaryRegulation",
-      "schema" : "plu",
-      "source" : {
-         "name" : "XPlan_BP",
-         "type" : "https://geodienste.hamburg.de/HH_WFS_Bebauungsplaene"
-      }
-   },
-   {
-      "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/su-vector/4.0/StatisticalUnitVector.xsd#VectorStatisticalUnit",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/su-vector/4.0/StatisticalUnitVector.xsd#{VectorStatisticalUnit}",
       "schema" : "su-vector",
       "source" : [
          {
             "name" : "LAU_StatistischeGebiete",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Statistische_Gebiete#statistische_gebiete"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Statistische_Gebiete#{statistische_gebiete}"
          },
          {
             "name" : "LAU_Stadtteile",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#stadtteile"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#{stadtteile}"
          },
          {
             "name" : "LAU_Stadtbezirke",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#bezirke"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#{bezirke}"
          },
          {
             "name" : "LAU_Stadt",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#landesgrenze"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#{landesgrenze}"
          }
       ]
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/us-emf/4.0/EnvironmentalManagementFacilities.xsd#EnvironmentalManagementFacility",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/tn-ro/4.0/RoadTransportNetwork.xsd#{RoadLink,RoadNode,...}",
+      "schema" : "tn-ro",
+      "source" : {
+         "name" : "HH_SIB",
+         "type" : "lokal#okstra2inspire.xml"
+      }
+   },
+   {
+      "json_featuretype" : "DestinationTypeValue",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/us-emf/4.0/EnvironmentalManagementFacilities.xsd#{EnvironmentalManagementFacility}",
       "schema" : "us-emf",
       "source" : [
          {
             "name" : "Abfallverbrennung",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#abfallverbrennung"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#{abfallverbrennung}"
          },
          {
             "name" : "Abfallentsorgung",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#abfallentsorgung"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Betriebe_Anlagen#{abfallentsorgung}"
          },
          {
             "name" : "Recyclinghof",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_abfall_recycling#abfall_recycling_6_recyhof"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_abfall_recycling#{abfall_recycling_6_recyhof}"
          },
          {
             "name" : "Abwasserentsorgungsgebiet",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Abwasserentsorgungsgebiet_Hamburg_Wasser#abwasserentsorgungsgebiet"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Abwasserentsorgungsgebiet_Hamburg_Wasser#{abwasserentsorgungsgebiet}"
          },
          {
             "name" : "Wasserversorgungsgebiet",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Wasserversorgungsgebiet_Hamburg_Wasser#wasserversorgungsgebiet"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Wasserversorgungsgebiet_Hamburg_Wasser#{wasserversorgungsgebiet}"
          }
       ]
    },
    {
       "json_featuretype" : "DestinationTypeValue",
-      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/us-govserv/4.0/GovernmentalServices.xsd#GovernmentalService",
+      "outputFeatureType" : "http://inspire.ec.europa.eu/schemas/us-govserv/4.0/GovernmentalServices.xsd#{GovernmentalService}",
       "schema" : "us-govserv",
       "source" : [
          {
             "name" : "KitaEinrichtungen",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_KitaEinrichtung#KitaEinrichtungen"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_KitaEinrichtung#{KitaEinrichtungen}"
          },
          {
             "name" : "Notunterkuenfte",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Notunterkuenfte#notunterkuenfte"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Notunterkuenfte#{notunterkuenfte}"
          },
          {
             "name" : "Schulen",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Schulen#staatliche_schulen"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Schulen#{staatliche_schulen}"
          },
          {
             "name" : "Krankenhaeuser",
-            "type" : "https://geodienste.hamburg.de/HH_WFS_Krankenhaeuser#krankenhaeuser_hh"
+            "type" : "https://geodienste.hamburg.de/HH_WFS_Krankenhaeuser#{krankenhaeuser_hh}"
          },
          {
             "name" : "DienststellenSBV",
-            "type" : "https://geodienste.hamburg.de/DE_HH_INSPIRE_WFS_Dienststellenstandorte_SBV#dienststellen_sbv"
+            "type" : "https://geodienste.hamburg.de/DE_HH_INSPIRE_WFS_Dienststellenstandorte_SBV#{dienststellen_sbv}"
+         },
+         {
+            "name" : "Feuerwehrstandorte",
+            "type" : "https://geodienste.hamburg.de/HH_WFS_feuerwehrstandorte#{berufsfeuerwehr,freiwillige_feuerwehr}"
          }
       ]
    }
