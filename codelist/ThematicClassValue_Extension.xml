@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ThematicClassValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Thematische Klasse. Werte fuer die thematische Klassifizierung geologischer Merkmale. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/ThematicClassValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">ThematicClassValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="HamburgerTon">
+      <description>﻿Hamburger Ton</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">HamburgerTon</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="ObereBraunkohlensande">
+      <description>Obere Braunkohlensande</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">ObereBraunkohlensande</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="ObererGlimmerton">
+      <description>Oberer Glimmerton</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">ObererGlimmerton</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="UntereBraunkohlensande">
+      <description>Untere Braunkohlensande</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">UntereBraunkohlensande</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="UntererGlimmerton">
+      <description>Unterer Glimmerton</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">UntererGlimmerton</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Kaolinsande">
+      <description>Kaolinsande</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Kaolinsande</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Pliozaen">
+      <description>Pliozaen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Pliozaen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Salzstock">
+      <description>Salzstock</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Salzstock</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Tonstein">
+      <description>Tonstein</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Tonstein</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Feinsand">
+      <description>Feinsand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Feinsand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Sand">
+      <description>Sand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Sand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Ton">
+      <description>Ton</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Ton</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Torf">
+      <description>Torf</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Torf</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Schluff">
+      <description>Schluff</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Schluff</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Auffuellung	">
+      <description>Auffüllung</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Auffuellung	</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="SandSchluffTon">
+      <description>Sand,Schluff,Ton</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">SandSchluffTon</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="TonMitSand">
+      <description>Ton mit Sand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">TonMitSand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="SchluffUndFeinsand">
+      <description>Schluff und Feinsand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">SchluffUndFeinsand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Flugsand">
+      <description>Flugsand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Flugsand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="GeschiebelehmGeschiebemergel">
+      <description>Geschiebelehm/Geschiebemergel</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">GeschiebelehmGeschiebemergel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Schmelzwassersande">
+      <description>Schmelzwassersande</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Schmelzwassersande</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Klei">
+      <description>Klei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Klei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Abschlaemmassen">
+      <description>Abschlämmassen</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Abschlaemmassen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Flottsand">
+      <description>Flottsand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Flottsand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Mudde">
+      <description>Mudde</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Mudde</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="TorfeHolozaen">
+      <description>Torfe des Holozän</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">TorfeHolozaen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="SandUeberGeschiebelehm">
+      <description>Sand über Geschiebelehm</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">SandUeberGeschiebelehm</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="SandeMitHumosenEinlagerungen">
+      <description>Sande mit humosen Einlagerungen (Talsande)</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">SandeMitHumosenEinlagerungen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="TorfUndMuddeEemWarmzeit">
+      <description>Torf und Mudde der Eem-Warmzeit</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">TorfUndMuddeEemWarmzeit</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="SandeVorgeest">
+      <description>Sande der Vorgeest</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">SandeVorgeest</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="KleiUeberTorf">
+      <description>Klei über Torf</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">KleiUeberTorf</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="KleiUeberSand">
+      <description>Klei über Sand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">KleiUeberSand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="HolozaenerTorfUeberSand">
+      <description>holozäner Torf über Sand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">HolozaenerTorfUeberSand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="FlottsandUeberSand">
+      <description>Flottsand über Sand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">FlottsandUeberSand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="TonUndSchluff">
+      <description>Ton und Schluff</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">TonUndSchluff</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="TorfUeberKlei">
+      <description>Torf über Klei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">TorfUeberKlei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="AuffuellungUeberKlei">
+      <description>Auffüllung (Spülfeld) über Klei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">AuffuellungUeberKlei</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="FlottsandUeberGeschiebelehm">
+      <description>Flottsand über Geschiebelehm</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">FlottsandUeberGeschiebelehm</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="Gewaesser">
+      <description>Gewässer</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">Gewaesser</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="GeschiebelehmUeberSand">
+      <description>Geschiebelehm über Sand</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">GeschiebelehmUeberSand</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="SandUeberTonUndSchluff">
+      <description>Sand über Ton und Schluff</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">SandUeberTonUndSchluff</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="SandUeberKlei">
+      <description>Sand über Klei</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassValue_Extension.xml">SandUeberKlei</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

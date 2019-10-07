@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ThematicClassificationValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Thematische Klassifikation. Liste thematischer Klassifikationen für geologische Merkmale. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/ThematicClassificationValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">ThematicClassificationValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="GK5">
+      <description>Geologische Karte 1:5.000.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassificationValue_Extension.xml">GK5</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="GK50Petrographie">
+      <description>Geologische Karte 1:50.000 - Petrographie.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassificationValue_Extension.xml">GK50Petrographie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="GK50Praequartaer">
+      <description>Geolgische Karte 1:50.000 - Praequartaer.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/ThematicClassificationValue_Extension.xml">GK50Praequartaer</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

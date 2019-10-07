@@ -33,6 +33,12 @@
 		</Definition>
 	</dictionaryEntry>
 	<dictionaryEntry>
+		<Definition gml:id="Artenkataster">
+			<description>Artenkataster - https://geodienste.hamburg.de/HH_WFS_Arten#{beobachtungen_von_tierarten_seit_1900}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Artenkataster</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
 		<Definition gml:id="BImSchG_Anlage">
 			<description>BImSchG_Anlage - https://geodienste.hamburg.de/HH_WFS_BImSchG_auf_Anlagenebene#{bimschg_auf_anlagenebene}</description>
 			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">BImSchG_Anlage</identifier>
@@ -78,6 +84,18 @@
 		<Definition gml:id="Bevoelkerung18">
 			<description>Bevoelkerung18 - https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j18.xlsx</description>
 			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Bevoelkerung18</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Biotope">
+			<description>Biotope - https://geodienste.hamburg.de/HH_WFS_Biotopkataster#{flaechenhafte_biotope_teilweise_geschuetzt,flaechenhafte_biotope_vollstaendig_geschuetzt,flaechenhafte_biotope_weitere,linenhafte_biotope_weitere,linienhafte_biotope_teilweise_geschuetzt,linienhafte_biotope_vollstaendig_geschuetzt,punkthafte_biotope_vollstaendig_geschuetzt,punkthafte_biotope_weitere}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Biotope</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Bodendenkmale">
+			<description>Bodendenkmale - https://geodienste.hamburg.de/HH_WFS_Denkmal_public#{fundplaetze_elemente_bodendenkmale,ensemble_elemente_ortsstadtkern,ensemble_elemente_huegelgraebergruppe,ensemble_elemente_grabungsschutzgebiet,ensemble_elemente_bedeutsame_landschaft,ensemble_elemente_archvorbehaltsflaeche}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Bodendenkmale</identifier>
 		</Definition>
 	</dictionaryEntry>
 	<dictionaryEntry>
@@ -153,9 +171,21 @@
 		</Definition>
 	</dictionaryEntry>
 	<dictionaryEntry>
+		<Definition gml:id="Geologie">
+			<description>Geologie - https://geodienste.hamburg.de/HH_WFS_Geologie_GLA#{petrographie,praequartaerer_untergrund,u4_f_geologische_karte_5000}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Geologie</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
 		<Definition gml:id="Geothermie">
 			<description>Geothermie - https://geodienste.hamburg.de/HH_WFS_Geothermie#{temperatur_in_100m_unter_gelaende,temperatur_in_minus_100mnhn,waermeentzugsleistung_bis_100m,waermeentzugsleistung_bis_80m,waermeentzugsleistung_bis_60m,waermeentzugsleistung_bis_40m}</description>
 			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Geothermie</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Gewaesserbauwerke">
+			<description>Gewaesserbauwerke - db_direct_connection#{BAUW_INSPIRE}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Gewaesserbauwerke</identifier>
 		</Definition>
 	</dictionaryEntry>
 	<dictionaryEntry>
@@ -195,6 +225,12 @@
 		</Definition>
 	</dictionaryEntry>
 	<dictionaryEntry>
+		<Definition gml:id="Kulturdenkmale">
+			<description>Kulturdenkmale - https://geodienste.hamburg.de/HH_WFS_Denkmalschutz#{denkmalobjekte_symbolhaft,ensembles,flaechen_gartendenkmale,flaechen_gewaesser,gebaeude,grenzsteine,welterbe}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Kulturdenkmale</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
 		<Definition gml:id="LAU_Stadt">
 			<description>LAU_Stadt - https://geodienste.hamburg.de/HH_WFS_Verwaltungsgrenzen#{landesgrenze}</description>
 			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">LAU_Stadt</identifier>
@@ -225,6 +261,12 @@
 		</Definition>
 	</dictionaryEntry>
 	<dictionaryEntry>
+		<Definition gml:id="Polizeikommissariate">
+			<description>Polizeikommissariate - https://geodienste.hamburg.de/HH_WFS_PKGrenzen#{pk_standorte}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Polizeikommissariate</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
 		<Definition gml:id="Recyclinghof">
 			<description>Recyclinghof - https://geodienste.hamburg.de/HH_WFS_abfall_recycling#{abfall_recycling_6_recyhof}</description>
 			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Recyclinghof</identifier>
@@ -240,6 +282,12 @@
 		<Definition gml:id="Schulen">
 			<description>Schulen - https://geodienste.hamburg.de/HH_WFS_Schulen#{staatliche_schulen}</description>
 			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Schulen</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="Schutzgebiete">
+			<description>Schutzgebiete - https://geodienste.hamburg.de/HH_WFS_Schutzgebiete#{nr_f_biosphaerenreservat,nr_f_eg_vogelschutzgebiet,nr_f_ffh_gebiet,nr_f_landschaftsschutzgebiet,nr_f_nationalpark,nr_f_naturdenkmal,nr_f_naturschutzgebiet,nr_f_ramsargebiet}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">Schutzgebiete</identifier>
 		</Definition>
 	</dictionaryEntry>
 	<dictionaryEntry>
@@ -262,8 +310,14 @@
 	</dictionaryEntry>
 	<dictionaryEntry>
 		<Definition gml:id="XPlan_BP_Plan">
-			<description>XPlan_BP_Plan - https://geodienste.hamburg.de/HH_WFS_Bebauungsplaene#{xplan:BP_Plan,...}</description>
+			<description>XPlan_BP_Plan - db_direct_connection#{xplan:BP_Plan,...}</description>
 			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">XPlan_BP_Plan</identifier>
+		</Definition>
+	</dictionaryEntry>
+	<dictionaryEntry>
+		<Definition gml:id="XPlan_FP_Plan">
+			<description>XPlan_FP_Plan - db_direct_connection#{xplan:FP_Plan,...}</description>
+			<identifier codeSpace="http://daten-hamburg.de/inspire/codelist/SourceTheme.xml">XPlan_FP_Plan</identifier>
 		</Definition>
 	</dictionaryEntry>
 </Dictionary>
