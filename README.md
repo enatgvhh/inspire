@@ -1,8 +1,8 @@
 #
 
-INSPIRE - LGV Hamburg
-=====================
-Umsetzung [INSPIRE](https://inspire.ec.europa.eu/data-specifications/2892) in Hamburg.
+INSPIRE
+=======
+Umsetzung [INSPIRE](https://inspire.ec.europa.eu/data-specifications/2892) in Deutschland.
 
 Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, INSPIRE GML-Examples, ...
 
@@ -11,7 +11,6 @@ Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, INSPIRE GML-Exam
 * [INSPIRE Index Schemas](http://inspire.ec.europa.eu/schemas/)
 * [INSPIRE Codelisten-Register](http://inspire.ec.europa.eu/codelist/)
 * [ETF Validator](http://inspire-sandbox.jrc.ec.europa.eu/etf-webapp/)
-* [Community Board](https://trello.com/b/0LTWeTBH/willkommens-board)
 
 ## FME Custom Transformer
 * [GML_Objects_Transformer_1](https://hub.safe.com/transformers/gml_objects_transformer_1)
