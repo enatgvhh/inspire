@@ -370,6 +370,7 @@ Individual spatial objects in a collection of spatial objects.
 Individual spatial objects of allowed geometry where a species occurs.</documentation>
 			  <appinfo>
                 <targetElement xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionUnit</targetElement>
+                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionDataSet</reversePropertyName>
               </appinfo>
             </annotation>
           </element>
@@ -501,6 +502,16 @@ A reference to a another spatial object defining the spatial extent of a distrib
 
 -- Description --
 EXAMPLE A specific administrative area.</documentation>
+            </annotation>
+          </element>
+          <element name="dataset" type="gml:ReferenceType">
+            <annotation>
+              <documentation>-- Definition --
+SpeciesDistributionDataSet which this SpeciesDistributionUnit belongs to.</documentation>
+              <appinfo>
+                <targetElement xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionDataSet</targetElement>
+                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionUnit</reversePropertyName>
+              </appinfo>
             </annotation>
           </element>
         </sequence>
