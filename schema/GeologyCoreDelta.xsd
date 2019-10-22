@@ -327,7 +327,7 @@ A Mapped Feature member of a Geologic Collection.
 Association that allows MappedFeature objects to be included as members in a GML Collection, through the use of the GeologicCollection class.</documentation>
               <appinfo>
                 <targetElement xmlns="http://www.opengis.net/gml/3.2">ge:MappedFeature</targetElement>
-                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">ge:GeologicCollection</reversePropertyName>
+                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">ge:collection</reversePropertyName>
               </appinfo>
             </annotation>
           </element>
@@ -680,7 +680,7 @@ A geologic feature, such as a geologic unit may be linked to mapped features fro
 GeologicCollection which this MappedFeature belongs to.</documentation>
               <appinfo>
                 <targetElement xmlns="http://www.opengis.net/gml/3.2">ge:GeologicCollection</targetElement>
-                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">ge:MappedFeature</reversePropertyName>
+                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">ge:mapMember</reversePropertyName>
               </appinfo>
             </annotation>
           </element>

@@ -370,7 +370,7 @@ Individual spatial objects in a collection of spatial objects.
 Individual spatial objects of allowed geometry where a species occurs.</documentation>
 			  <appinfo>
                 <targetElement xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionUnit</targetElement>
-                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionDataSet</reversePropertyName>
+                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">sd:dataset</reversePropertyName>
               </appinfo>
             </annotation>
           </element>
@@ -510,7 +510,7 @@ EXAMPLE A specific administrative area.</documentation>
 SpeciesDistributionDataSet which this SpeciesDistributionUnit belongs to.</documentation>
               <appinfo>
                 <targetElement xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionDataSet</targetElement>
-                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">sd:SpeciesDistributionUnit</reversePropertyName>
+                <reversePropertyName xmlns="http://www.opengis.net/gml/3.2">sd:member</reversePropertyName>
               </appinfo>
             </annotation>
           </element>
