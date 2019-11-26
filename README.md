@@ -10,7 +10,7 @@ Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, INSPIRE GML-Exam
 * [INSPIRE GML Examples](https://inspire.ec.europa.eu/forum/file/owner/n0021zft)
 * [INSPIRE Index Schemas](http://inspire.ec.europa.eu/schemas/)
 * [INSPIRE Codelisten-Register](http://inspire.ec.europa.eu/codelist/)
-* [ETF Validator](http://inspire-sandbox.jrc.ec.europa.eu/etf-webapp/)
+* [ETF Validator](http://inspire.ec.europa.eu/validator/)
 
 ## FME Custom Transformer
 * [GML_Objects_Transformer_1](https://hub.safe.com/transformers/gml_objects_transformer_1)
