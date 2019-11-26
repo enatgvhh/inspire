@@ -34,8 +34,8 @@ XPlanung to INSPIRE
 * Dauer auf FME-Server über 10h
 
 ## WebServices
-* [WFS](https://geodienste.hamburg.de/HH_WFS_INSPIRE_Planned_Land_Use)
-* [WMS](https://geodienste.hamburg.de/HH_WMS_INSPIRE_Planned_Land_Use)
+* [WFS](https://geodienste.hamburg.de/HH_WFS_INSPIRE_Planned_Land_Use?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WMS](https://geodienste.hamburg.de/HH_WMS_INSPIRE_Planned_Land_Use?REQUEST=GetCapabilities&SERVICE=WMS)
 * Besonderheit WMS:
   ```
   - deegree kann im BLOB-Modus noch nicht: GetFeatureInfo Response richtig auflösen und 
