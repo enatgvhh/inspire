@@ -20,7 +20,7 @@ XPlanung to INSPIRE
 * [Transformationsregeln von Dr. J. Benner (KIT)](http://www.xplanungwiki.de/upload/INSPIRE/INSPIRE_Transformation_V2_0.pdf)
 * FME Workbench:
   ```
-  #!text
+  #!xquery
   - jeder Plan einzeln
   - über die Referenzen von einem XPlan Objekt zum nächsten hangeln (SQLExecutor)
   - Extraktion über xPath/xQuery, ermöglicht es alle XPlan-Objektarten generisch zu verarbeiten
@@ -39,8 +39,9 @@ XPlanung to INSPIRE
 * [WMS](https://geodienste.hamburg.de/HH_WMS_INSPIRE_Planned_Land_Use)
 * Besonderheit WMS:
 ```
-  #!text
-  - deegree kann im BLOB-Modus noch nicht richtig: GetFeatureInfo Response auflösen und Filter auf xlink:href Attribute
+  #!xquery
+  - deegree kann im BLOB-Modus noch nicht: GetFeatureInfo Response richtig auflösen und 
+    Filter auf xlink:href Attribute setzen
   - deshalb parallele Datenhaltung in relationalen PostGIS-Tabellen für WMS
   ```
   
