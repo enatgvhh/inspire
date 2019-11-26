@@ -42,6 +42,7 @@ XPlanung to INSPIRE
     Filter auf xlink:href Attribute setzen
   - deshalb parallele Datenhaltung in relationalen PostGIS-Tabellen für WMS
   ```
+* [Geoportal Hamburg](https://geoportal-hamburg.de/Geoportal/geo-online/index.html)
   
 ## Einschränkung
 * individuell auf Daten FHH angepasste Transformation
