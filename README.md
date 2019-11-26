@@ -18,3 +18,6 @@ Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, INSPIRE GML-Exam
 * [GML_Objects_Transformer_2](https://hub.safe.com/transformers/gml_objects_transformer_2)
 * [GML_Objects_BLOB_Decoder](https://hub.safe.com/transformers/gml_objects_blob_decoder)
 * [ETF_Validator_GML_Files ](https://hub.safe.com/transformers/etf_validator_gml_files)
+
+## Kurzpräsentation
+* [XPlan to INSPIRE](xplan2inspire.md)
