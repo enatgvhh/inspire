@@ -29,13 +29,15 @@ XPlanung to INSPIRE
   - XML Formatierung (linearize)
   - PostGIS-Writer in PostgreSQL/PostGIS DB (deegree SQLFeatureStore im BLOB-Modus)
   ```
-* optional können auch GML-Files über den INSPIRE GML-Writer generiert werden
-* Validierung INSPIRE PLU-Objekte: XMLSpy, ETF-Validator, deegree WFS
+* zweite Workbench um GML-Files über den INSPIRE GML-Writer zu generieren
+* Validierung INSPIRE PLU: XMLSpy, ETF-Validator, deegree WFS
 * Dauer auf FME-Server über 10h
+* Datenvolumen in DB >600 MB, >800 MB WFS-Response
 
 ## WebServices
-* [WFS](https://geodienste.hamburg.de/HH_WFS_INSPIRE_Planned_Land_Use?REQUEST=GetCapabilities&SERVICE=WFS)
-* [WMS](https://geodienste.hamburg.de/HH_WMS_INSPIRE_Planned_Land_Use?REQUEST=GetCapabilities&SERVICE=WMS)
+* [WFS BPläne](https://geodienste.hamburg.de/HH_WFS_INSPIRE_Planned_Land_Use?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WMS BPläne](https://geodienste.hamburg.de/HH_WMS_INSPIRE_Planned_Land_Use?REQUEST=GetCapabilities&SERVICE=WMS)
+* WFS/WMS FPläne nur auf Testsystem Intranet
 * Besonderheit WMS:
   ```
   - deegree kann im BLOB-Modus noch nicht: GetFeatureInfo Response richtig auflösen und 
@@ -44,13 +46,13 @@ XPlanung to INSPIRE
   ```
   
 ## Einschränkung
-* individuell auf Daten FHH angepasste Transformation
+* individuell auf FHH-Daten angepasste Transformation
 * kein universeller Konverter!
 
 ## Alternativen
-* rudimentäre HALE Transformation über XPlanBox (lat/lon)
-* rudimentäre Transformation über GML-Toolbox (Dr. J. Benner, KIT)
-* GDI-Service Rostock
+* HALE Transformation über XPlanBox von lat/lon (unvollständig)
+* Transformation über GML-Toolbox von Dr. J. Benner, KIT (unvollständig)
+* XSLT Transformation von GDI-Service Rostock
 
 ## Links
 * [Geoportal Hamburg](https://geoportal-hamburg.de/Geoportal/geo-online/index.html)
