@@ -17,7 +17,7 @@ XPlanung to INSPIRE
 * [INSPIRE PLU Sample](https://geodienste.hamburg.de/HH_WFS_INSPIRE_Planned_Land_Use?service=WFS&version=2.0.0&request=GetFeature&typeName=plu:SpatialPlan&COUNT=1&resolvedepth=*)
 
 ## Transformation
-* [Transformationsregeln von Dr. J. Benner (KIT)](http://www.xplanungwiki.de/upload/INSPIRE/INSPIRE_Transformation_V2_0.pdf)
+* [Transformationsregeln von Dr. J. Benner (KIT)](http://www.xplanungwiki.de/upload/INSPIRE/XPlanGML_5_0/INSPIRE_Transformation_2_0_2_2019-12-17.pdf)
 * FME Workbench:
   ```
   - jeder Plan einzeln
