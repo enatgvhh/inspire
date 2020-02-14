@@ -22,3 +22,6 @@ Hier liegen Codelist-Extensions, korrigierte INSPIRE xsd-Files, INSPIRE GML-Exam
 ## Kurzpräsentation
 * [FME-Workflow](fme4inspire.md)
 * [XPlan to INSPIRE](xplan2inspire.md)
+
+## Essay
+* [Was soll INSPIRE eigentlich?](essay.md)
