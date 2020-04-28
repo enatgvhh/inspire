@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="OtherHorizonNotationTypeValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Andere Horizontsymbol. Bezeichnung eines Bodenhorizonts nach einer bestimmten Systematik. Erweiterung der any Codeliste http://inspire.ec.europa.eu/codelist/OtherHorizonNotationTypeValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">OtherHorizonNotationTypeValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="KA3">
+      <description>Bodenkundliche Kartieranleitung KA 3 (1982-1993), Horizontbezogene Daten (#KA3#Horizontsymbol).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/OtherHorizonNotationTypeValue_Extension.xml">KA3</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="KA4">
+      <description>Bodenkundliche Kartieranleitung KA 4 (1994-2005), Horizontbezogene Daten (#KA4#Horizontsymbol).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/OtherHorizonNotationTypeValue_Extension.xml">KA4</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="KA5">
+      <description>Bodenkundliche Kartieranleitung KA 5 (ab 2005), Horizontbezogene Daten (#KA5#Horizontsymbol).</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/OtherHorizonNotationTypeValue_Extension.xml">KA5</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>
