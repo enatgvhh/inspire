@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="DesignationSchemeValue_Extension" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>Bezeichnungsschema. Erweiterung der open Codeliste http://inspire.ec.europa.eu/codelist/DesignationSchemeValue.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">DesignationSchemeValue_Extension</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="germanMonumentsRecord">
+      <description>German monuments record.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/DesignationSchemeValue_Extension.xml">germanMonumentsRecord</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="GermanMonumentsRecordDesignationValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <description>German-Monuments-Record-Kennzeichnung. Eine neue Codeliste für das Klassifikationssystem des German Monuments Record.</description>
+  <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/">GermanMonumentsRecordDesignationValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="archaeologischesDenkmal">
+      <description>Archaeologisches Denkmal.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/GermanMonumentsRecordDesignationValue.xml">archaeologischesDenkmal</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="baudenkmal">
+      <description>Baudenkmal.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/GermanMonumentsRecordDesignationValue.xml">baudenkmal</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="flaechendenkmal">
+      <description>Flaechendenkmal.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/GermanMonumentsRecordDesignationValue.xml">flaechendenkmal</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="geologischesDenkmal">
+      <description>Geologisches Denkmal.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/GermanMonumentsRecordDesignationValue.xml">geologischesDenkmal</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="grabungsschutzgebiet">
+      <description>Grabungsschutzgebiet.</description>
+      <identifier codeSpace="http://daten-hamburg.de/inspire/codelist/GermanMonumentsRecordDesignationValue.xml">grabungsschutzgebiet</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>
