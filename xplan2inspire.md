@@ -18,7 +18,7 @@ XPlanung to INSPIRE
 
 ## Transformation
 * [Transformationsregeln von Dr. J. Benner (KIT)](http://www.xplanungwiki.de/upload/INSPIRE/XPlanGML_5_0/INSPIRE_Transformation_2_0_2_2019-12-17.pdf)
-* FME Workbench:
+* [FME Workbench](fmw/xplan4.1Blob2inspire4.0Blob.fmw):
   ```
   - jeder Plan einzeln
   - über die Referenzen von einem XPlan Objekt zum nächsten hangeln (SQLExecutor)
@@ -29,7 +29,7 @@ XPlanung to INSPIRE
   - XML Formatierung (linearize)
   - PostGIS-Writer in PostgreSQL/PostGIS DB (deegree SQLFeatureStore im BLOB-Modus)
   ```
-* zweite Workbench um GML-Files über den INSPIRE GML-Writer zu generieren
+* zweite [FME Workbench](fmw/xplan4.1Blob2inspire4.0Gml.fmw) um GML-Files über den INSPIRE GML-Writer zu generieren
 * Validierung INSPIRE PLU: XMLSpy, ETF-Validator, deegree WFS
 * Dauer auf FME-Server über 10h
 * Datenvolumen in DB >600 MB, >800 MB WFS-Response
